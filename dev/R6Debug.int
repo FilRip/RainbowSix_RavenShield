@@ -1,0 +1,39 @@
+[Rooms]
+ID_CODENAME=rooms
+ID_MENUNAME=rooms
+ID_LOCATION=Montreal, Canada
+ID_DATETIME=Today
+
+ID_CONTROL=Debug Map.
+ID_CLARK=Debug Map.
+ID_SWEENY=Debug Map.
+ID_NEWSWIRE=Debug Map.
+ID_MISSION_ORDER=Debug Map.
+ID_OBJECTIVES=Debug Game Play
+
+[allhostage]
+ID_CODENAME=all hostage
+ID_MENUNAME=all hostage
+ID_LOCATION=Montreal, Canada
+ID_DATETIME=Today
+
+ID_CONTROL=Debug Map.
+ID_CLARK=Debug Map.
+ID_SWEENY=Debug Map.
+ID_NEWSWIRE=Debug Map.
+ID_MISSION_ORDER=Debug Map.
+ID_OBJECTIVES=Debug Game Play
+
+[ladder]
+ID_CODENAME=ladder
+ID_MENUNAME=ladder
+ID_LOCATION=Montreal, Canada
+ID_DATETIME=Today
+
+ID_CONTROL=Debug Map.
+ID_CLARK=Debug Map.
+ID_SWEENY=Debug Map.
+ID_NEWSWIRE=Debug Map.
+ID_MISSION_ORDER=Debug Map.
+ID_OBJECTIVES=Debug Game Play
+

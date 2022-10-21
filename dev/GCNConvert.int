@@ -1,0 +1,7 @@
+[GCNConvertCommandlet]
+HelpCmd=gcnconvert
+HelpOneLiner=Convert a package into GCN format. Converts Textures right now.
+HelpUsage=gcnconvert package.ext
+HelpParm[0]=package.ext
+HelpDesc[0]=Package to convert
+

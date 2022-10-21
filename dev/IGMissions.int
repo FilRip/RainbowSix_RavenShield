@@ -1,0 +1,25 @@
+[IG_Embassy]
+ID_MENUNAME=IG Embassy
+ID_CODENAME=Steel Wind
+ID_DATETIME=2000.2.7 - 1700
+ID_LOCATION=London
+ID_CONTROL=Earlier this evening, armed members of the terrorist organization "Free Europe" seized control of the Belgian embassy in London.\nYour mission is to retake the embassy with minimal civilian losses.
+ID_CLARK=Looks like we've got our first real job. The Brits would love to send in the SAS but the word from Brussels is "no way", and London says the same about the Belgian ESI.\nI don't have to tell you that we're going under the microscope on this one.  There're folks on both sides of the Atlantic who still aren't convinced that there's any need for a group like RAINBOW.\nTake your time and study the situation carefully before you light the fuse.\nIf we blow it the first time out, they may just shut us down.
+ID_MISSION_ORDER=Your mission is to Rescue All Hostages.
+
+[IG_Venice]
+ID_MENUNAME=IG Canals of Venice
+ID_CODENAME=Aztec Palace
+ID_DATETIME=2003.6.20 - 1900
+ID_LOCATION=Venice
+ID_CONTROL=Members of an apocalyptic cult have seized control of a Venetian library housing a collection of rare medieval manuscripts.  They have planted bombs in the building that we believe are set to detonate within the hour.  Your mission is to regain control of the library and prevent the bombs’ detonation.
+ID_CLARK=The group holding the library call themselves Universal Harmony.  They'e mostly American a fringe New Age cult out of New Mexico.  Apparently they believe that one of the books in the Alberti collection has some sort of mystical significance.  They havent issued any demands, but our surveillance indicates that they're set explosives in the building.  Intel thinks we may have a mass suicide in the making.  Our job is to retake the place before they can blow it up.
+ID_SWEENY=They let the library staff go a few hours ago, so you wont have to worry about hostages.  Frankly, the biggest danger you'll face will be premature detonation of the explosives; it vitally important that none of the cult members be allowed to raise the alarm.
+ID_MISSION_ORDER=Terrorists are threatening to destroy a historic library in Venice.  You mission is to neutralize all terrorists before they can detonate their bomb.  To regain control of the library you'll need to choose a single route of assault.  There are several ways in:  The main entrance to the square across the bridge, the small bridge over the canal that extends from the mall area, and the underground canal entrance.  The bomb is located in the center of the library, downstairs.  Since there are no hostages, you're primary objective should be to secure the bomb and then proceed to eliminate the remaining threats.
+
+[IG_Olsons_Estate]
+ID_MENUNAME=IG Olsons Estate
+ID_CODENAME=Lightning Field
+ID_DATETIME=2002.2.10 - 0600
+ID_LOCATION=Near Souillac, Mauritius
+ID_MISSION_ORDER=Your mission is Neutralize All Terrorists.

@@ -1,0 +1,11 @@
+[SriLanka]
+ID_CODENAME=Waking Buddha
+ID_DATETIME=2005.09.10 - 1200
+ID_LOCATION=Sri Lanka
+ID_MENUNAME=SriLanka
+[SriLankaNight]
+ID_CODENAME=Sleeping Buddha
+ID_DATETIME=2005.09.10 - 2000
+ID_LOCATION=Sri Lanka
+ID_MENUNAME=SriLankaNight
+

@@ -1,0 +1,2554 @@
+Log: Log file open, 08/24/03 02:54:54
+Init: Name subsystem initialized
+Init: Detected: Microsoft Windows XP 5.1 (Build: 2600)
+Init: Version: 315
+Init: Compiled: Aug  8 2003 03:28:35
+Init: Command line: 
+Init: Base directory: C:\Gamez\RavenShield\system\
+Init: Character set: Unicode
+Log: Bound to Core.dll
+Log: Bound to Editor.dll
+Log: Bound to Engine.dll
+Log: Bound to Window.dll
+Init: Object subsystem initialized
+Init: Computer: FILRIP3
+Init: User: Administrateur
+Init: CPU Page size=4096, Processors=1
+Init: CPU Detected: Unknown processor (GenuineIntel)
+Init: CPU Features: CMov FPU RDTSC PAE MMX SSE
+Init: CPU Speed=2407.834980 MHz
+Init: Memory total: Phys=523744K Pagef=1277952K Virt=2097024K
+Init: Working set: 32000 / 159000
+Init: Raven Shield engine initialized
+Log: Bound to DareAudio.dll
+Log: Bound to R6Game.dll
+Log: Bound to R6Abstract.dll
+Log: Bound to R6Weapons.dll
+Log: Bound to R6Engine.dll
+Init: Transaction tracking system initialized
+Log: Bound to Fire.dll
+Log: Bound to R6GameService.dll
+Log: Bound to IpDrv.dll
+Log: Bound to WinDrv.dll
+Init: Client initialized
+Log: Bound to D3DDrv.dll
+Log: D3D Device: 64M of video memory
+Init: Direct3D adapters detected:
+Log: 	nv4_disp.dll/NVIDIA GeForce4 Ti 4200
+Init: D3D Driver: MaxTextureBlendStages=8
+Init: D3D Driver: MaxSimultaneousTextures=4
+Init: D3D Driver: MaxActiveLights=8
+Init: D3D Driver: MaxPrimitiveCount=1048575
+Init: D3D Driver: MaxVertexIndex=1048575
+Init: D3D Driver: MaxStreams=16
+Init: D3D Driver: MaxStreamStride=255
+Init: D3D Driver: MaxVertexShaderConst=96
+Init: D3D Driver: D3DVSDT_UBYTE4 allowed: No.
+Init: D3D Driver: VertexShaderVersion=1.1
+Init: D3D Driver: PixelShaderVersion=1.3
+Init: D3D Driver: MaxUserClipPlanes=0
+Init: D3D Driver: AGP support detected
+Init: D3D Driver: D3DDEVCAPS_NPATCHES=0
+Init: D3D Driver: Supports trilinear
+Init: D3D Driver: Supports BLENDDIFFUSEALPHA
+Init: D3D Driver: Supports LOD biasing
+Init: D3D Driver: Supports Z biasing
+Init: D3D Driver: Supports D3DTOP_ADDSIGNED2X
+Init: D3D Driver: Supports D3DTOP_BUMPENVMAP
+Init: D3D Driver: Supports D3DTOP_BUMPENVMAPLUMINANCE
+Init: D3D Driver: Supports D3DTOP_DOTPRODUCT3
+Init: D3D Driver: Supports D3DTOP_MODULATEALPHA_ADDCOLOR
+Init: D3D Driver: Supports D3DTOP_MODULATECOLOR_ADDALPHA
+Init: D3D Driver: Textures (4096x4096), Max aspect 4096
+Init: Raven Shield Engine Direct3D support
+Init: D3D Device: szDriver=nv4_disp.dll
+Init: D3D Device: szDescription=NVIDIA GeForce4 Ti 4200
+Init: D3D Device: wProduct=6
+Init: D3D Device: wVersion=14
+Init: D3D Device: wSubVersion=10
+Init: D3D Device: wBuild=4523
+Init: D3D Device: dwVendorId=4318
+Init: D3D Device: dwDeviceId=595
+Init: D3D Device: dwSubSysId=681316477
+Init: D3D Device: dwRevision=163
+Init: D3D Detected: NVidia video card
+Init: D3D Device: using cubemaps [with mipmaps]
+Log: Initializing PhysicsVolumes list
+Init: Editor engine initialized
+Log: Startup time: 25.854495 seconds
+Cmd: MODE MAPEXT=rsm
+Init: Input system initialized for TerrainHeightmap
+Init: Input system initialized for TerrainHeightmap
+Log: Opened viewport
+Log: Enter SetRes: 386x55 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Creating device
+Init: D3D Driver: CreateDevice: will use hardware transform and lighting.
+Init: D3D Driver: CreateDevice: will use hardware vertex processing
+Init: Input system initialized for TerrainLayers
+Init: Input system initialized for TerrainLayers
+Log: Opened viewport
+Log: Enter SetRes: 420x174 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: Input system initialized for TerrainDecoLayers
+Init: Input system initialized for TerrainDecoLayers
+Log: Opened viewport
+Log: Enter SetRes: 420x174 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: Input system initialized for MatineeScenes
+Init: Input system initialized for MatineeScenes
+Log: FUCK PositionFenetre: x:12 y:26
+Log: Opened viewport
+Log: Enter SetRes: 320x177 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: Input system initialized for MatineeActions
+Init: Input system initialized for MatineeActions
+Log: Opened viewport
+Log: Enter SetRes: 320x177 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: Input system initialized for MatineeSubActions
+Init: Input system initialized for MatineeSubActions
+Log: Opened viewport
+Log: Enter SetRes: 320x177 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: Input system initialized for U2Viewport0
+Log: Opened viewport
+Log: Enter SetRes: 320x200 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 640x480 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 44x23 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 44x23 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: Input system initialized for U2Viewport1
+Log: Opened viewport
+Log: Enter SetRes: 320x200 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 640x480 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 44x23 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 44x23 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: Input system initialized for U2Viewport2
+Log: Opened viewport
+Log: Enter SetRes: 320x200 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 640x480 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 44x23 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 44x23 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: Input system initialized for U2Viewport3
+Log: Opened viewport
+Log: Enter SetRes: 320x200 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 640x480 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 44x23 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 44x23 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 640x480 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 640x480 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 640x480 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 640x480 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: Input system initialized for MeshViewer
+Init: Input system initialized for MeshViewer
+Log: Opened viewport
+Log: Enter SetRes: 256x256 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Cmd: CAMERA UPDATE NAME=MeshViewer MESH="" FLAGS=641 REN=19 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE NAME=MeshViewer MESH="" FLAGS=641 REN=19 MISC1=0 MISC2=0
+Log: Enter SetRes: 436x341 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 436x361 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 436x341 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Initializing PhysicsVolumes list
+Init: Input system initialized for AnimationViewer
+Init: Input system initialized for AnimationViewer
+Log: Opened viewport
+Log: Enter SetRes: 256x256 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 640x480 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 347x330 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Cmd: CAMERA UPDATE NAME=AnimationViewer MESH="R61stAssaultAK47" FLAGS=16810633 REN=26 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE NAME=AnimationViewer MESH="R61stAssaultAK47" FLAGS=16810633 REN=26 MISC1=0 MISC2=0
+Cmd: CAMERA UPDATE NAME=AnimationViewer MESH="R61stAssaultAK47" FLAGS=16810633 REN=26 MISC1=0 MISC2=0
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Allocating 16384 byte dynamic index buffer.
+Cmd: CAMERA UPDATE NAME=AnimationViewer MESH="R61stAssaultAK47" FLAGS=16810633 REN=26 MISC1=0 MISC2=0
+Log: Initializing PhysicsVolumes list
+Init: Input system initialized for PrefabBrowser
+Init: Input system initialized for PrefabBrowser
+Log: Opened viewport
+Log: Enter SetRes: 320x200 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Cmd: CAMERA UPDATE FLAGS=545425097 REN=20 NAME=PrefabBrowser
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 436x352 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Cmd: AUDIO FINDVIEWPORT
+Init: Input system initialized for StaticMeshBrowser
+Init: Input system initialized for StaticMeshBrowser
+Log: Opened viewport
+Log: Enter SetRes: 320x200 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 320x200 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 640x480 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 530x352 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Init: Input system initialized for TextureBrowser
+Init: Input system initialized for TextureBrowser
+Log: Opened viewport
+Log: Enter SetRes: 320x200 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 466x178 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: Input system initialized for TextureBrowserUsed
+Init: Input system initialized for TextureBrowserUsed
+Log: Opened viewport
+Log: Enter SetRes: 320x200 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 466x224 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Init: Input system initialized for TextureBrowserMRU
+Init: Input system initialized for TextureBrowserMRU
+Log: Opened viewport
+Log: Enter SetRes: 320x200 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 466x224 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 640x480 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 586x281 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Cmd: CAMERA UPDATE FLAGS=1073742464 MISC2=0 REN=17 NAME=TextureBrowser PACKAGE="Color" GROUP="Color"
+Log: Enter SetRes: 360x152 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 191x152 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 360x152 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 191x152 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 698x318 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 373x318 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 698x318 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 373x318 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Enter SetRes: 586x282 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 436x342 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 347x331 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 530x353 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 436x353 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 586x390 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 436x450 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 347x439 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 530x461 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 436x461 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 586x393 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 436x453 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 347x442 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 530x464 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 436x464 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 586x403 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 436x463 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 347x452 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 530x474 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 436x474 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 586x418 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 436x478 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 347x467 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 530x489 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 436x489 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 586x429 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 436x489 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 347x478 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 530x500 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 436x500 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 586x431 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Enter SetRes: 436x491 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 347x480 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 530x502 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Enter SetRes: 436x502 Fullscreen 0
+Log: Current display mode is 32 bits (22)
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 75(32-bit)
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Allocating 16384 byte dynamic index buffer.
+Cmd: CLASS SPEW ALL
+Log: Spewing: ..\Core\Classes\Object.uc
+Log: Spewing: ..\UnrealEd\Classes\UnrealEdEngine.uc
+Log: Spewing: ..\Editor\Classes\EditorEngine.uc
+Log: Spewing: ..\Engine\Classes\Engine.uc
+Log: Spewing: ..\Core\Classes\Subsystem.uc
+Log: Spewing: ..\UnrealEd\Classes\AnimBrowserMesh.uc
+Log: Spewing: ..\Engine\Classes\Actor.uc
+Log: Spewing: ..\UnrealEd\Classes\AnimEditProps.uc
+Log: Spewing: ..\UnrealEd\Classes\MeshEditProps.uc
+Log: Spewing: ..\UnrealEd\Classes\SequEditProps.uc
+Log: Spewing: ..\UnrealEd\Classes\NotifyProperties.uc
+Log: Spewing: ..\UnrealEd\Classes\SkelPrefsEditProps.uc
+Log: Spewing: ..\Core\Classes\Commandlet.uc
+Log: Spewing: ..\Editor\Classes\AnimNotifyProps.uc
+Log: Spewing: ..\Editor\Classes\MaterialFactory.uc
+Log: Spewing: ..\Editor\Classes\BrushBuilder.uc
+Log: Spewing: ..\Engine\Classes\Player.uc
+Log: Spewing: ..\Engine\Classes\R6WallHit.uc
+Log: Spewing: ..\Engine\Classes\R6DecalsBase.uc
+Log: Spewing: ..\Engine\Classes\R6DecalManager.uc
+Log: Spewing: ..\Engine\Classes\R6DecalGroup.uc
+Log: Spewing: ..\Engine\Classes\R6Decal.uc
+Log: Spewing: ..\Engine\Classes\Projector.uc
+Log: Spewing: ..\Engine\Classes\DecoVolumeObject.uc
+Log: Spewing: ..\Engine\Classes\DecorationList.uc
+Log: Spewing: ..\Engine\Classes\Keypoint.uc
+Log: Spewing: ..\Engine\Classes\Cubemap.uc
+Log: Spewing: ..\Engine\Classes\Texture.uc
+Log: Spewing: ..\Engine\Classes\BitmapMaterial.uc
+Log: Spewing: ..\Engine\Classes\RenderedMaterial.uc
+Log: Spewing: ..\Engine\Classes\Material.uc
+Log: Spewing: ..\Engine\Classes\Palette.uc
+Log: Spewing: ..\Engine\Classes\TerrainMaterial.uc
+Log: Spewing: ..\Engine\Classes\TerrainInfo.uc
+Log: Spewing: ..\Engine\Classes\Info.uc
+Log: Spewing: ..\Engine\Classes\StaticMeshActor.uc
+Log: Spewing: ..\Engine\Classes\SpriteEmitter.uc
+Log: Spewing: ..\Engine\Classes\ParticleEmitter.uc
+Log: Spewing: ..\Engine\Classes\SparkEmitter.uc
+Log: Spewing: ..\Engine\Classes\AnimNotify_MatSubAction.uc
+Log: Spewing: ..\Engine\Classes\AnimNotify.uc
+Log: Spewing: ..\Engine\Classes\AnimNotify_Scripted.uc
+Log: Spewing: ..\Engine\Classes\AnimNotify_Script.uc
+Log: Spewing: ..\Engine\Classes\AnimNotify_Sound.uc
+Log: Spewing: ..\Engine\Classes\AnimNotify_DestroyEffect.uc
+Log: Spewing: ..\Engine\Classes\AnimNotify_Effect.uc
+Log: Spewing: ..\Engine\Classes\ShadowBitmapMaterial.uc
+Log: Spewing: ..\Engine\Classes\LookTarget.uc
+Log: Spewing: ..\Engine\Classes\ActorManager.uc
+Log: Spewing: ..\Engine\Classes\SceneManager.uc
+Log: Spewing: ..\Engine\Classes\ActionMoveActor.uc
+Log: Spewing: ..\Engine\Classes\ActionMoveCamera.uc
+Log: Spewing: ..\Engine\Classes\MatAction.uc
+Log: Spewing: ..\Engine\Classes\MatObject.uc
+Log: Spewing: ..\Engine\Classes\SubActionSceneSpeed.uc
+Log: Spewing: ..\Engine\Classes\MatSubAction.uc
+Log: Spewing: ..\Engine\Classes\SubActionGameSpeed.uc
+Log: Spewing: ..\Engine\Classes\SubActionOrientation.uc
+Log: Spewing: ..\Engine\Classes\SubActionCameraShake.uc
+Log: Spewing: ..\Engine\Classes\SubActionFOV.uc
+Log: Spewing: ..\Engine\Classes\SubActionTrigger.uc
+Log: Spewing: ..\Engine\Classes\SubActionFade.uc
+Log: Spewing: ..\Engine\Classes\ActionPause.uc
+Log: Spewing: ..\Engine\Classes\Pawn.uc
+Log: Spewing: ..\Engine\Classes\ParticleMaterial.uc
+Log: Spewing: ..\Engine\Classes\Emitter.uc
+Log: Spewing: ..\Engine\Classes\Mover.uc
+Log: Spewing: ..\Engine\Classes\MeshEmitter.uc
+Log: Spewing: ..\Engine\Classes\OpacityModifier.uc
+Log: Spewing: ..\Engine\Classes\Modifier.uc
+Log: Spewing: ..\Engine\Classes\MaterialSwitch.uc
+Log: Spewing: ..\Engine\Classes\FinalBlend.uc
+Log: Spewing: ..\Engine\Classes\DiffuseAttenuationMaterial.uc
+Log: Spewing: ..\Engine\Classes\VertexColor.uc
+Log: Spewing: ..\Engine\Classes\TexCoordSource.uc
+Log: Spewing: ..\Engine\Classes\TexModifier.uc
+Log: Spewing: ..\Engine\Classes\TexMatrix.uc
+Log: Spewing: ..\Engine\Classes\TexEnvMap.uc
+Log: Spewing: ..\Engine\Classes\TexOscillator.uc
+Log: Spewing: ..\Engine\Classes\TexRotator.uc
+Log: Spewing: ..\Engine\Classes\TexScaler.uc
+Log: Spewing: ..\Engine\Classes\TexPanner.uc
+Log: Spewing: ..\Engine\Classes\FadeColor.uc
+Log: Spewing: ..\Engine\Classes\ConstantMaterial.uc
+Log: Spewing: ..\Engine\Classes\ConstantColor.uc
+Log: Spewing: ..\Engine\Classes\Combiner.uc
+Log: Spewing: ..\Engine\Classes\Shader.uc
+Log: Spewing: ..\Engine\Classes\ColorModifier.uc
+Log: Spewing: ..\Engine\Classes\InteractionMaster.uc
+Log: Spewing: ..\Engine\Classes\Interactions.uc
+Log: Spewing: ..\Engine\Classes\Console.uc
+Log: Spewing: ..\Engine\Classes\Interaction.uc
+Log: Spewing: ..\Engine\Classes\GameEngine.uc
+Log: Spewing: ..\Engine\Classes\FluidSurfaceOscillator.uc
+Log: Spewing: ..\Engine\Classes\FluidSurfaceInfo.uc
+Log: Spewing: ..\Engine\Classes\R6ServerInfo.uc
+Log: Spewing: ..\Engine\Classes\R6GameOptions.uc
+Log: Spewing: ..\Engine\Classes\R6Mod.uc
+Log: Spewing: ..\Engine\Classes\R6ModMgr.uc
+Log: Spewing: ..\Engine\Classes\R6MissionDescription.uc
+Log: Spewing: ..\Engine\Classes\PlayerInput.uc
+Log: Spewing: ..\Engine\Classes\CheatManager.uc
+Log: Spewing: ..\Engine\Classes\Canvas.uc
+Log: Spewing: ..\Engine\Classes\CameraOverlay.uc
+Log: Spewing: ..\Engine\Classes\CameraEffect.uc
+Log: Spewing: ..\Engine\Classes\MotionBlur.uc
+Log: Spewing: ..\Engine\Classes\SubActionCameraEffect.uc
+Log: Spewing: ..\Engine\Classes\BeamEmitter.uc
+Log: Spewing: ..\Engine\Classes\I3DL2Listener.uc
+Log: Spewing: ..\Engine\Classes\JumpDest.uc
+Log: Spewing: ..\Engine\Classes\NavigationPoint.uc
+Log: Spewing: ..\Engine\Classes\JumpPad.uc
+Log: Spewing: ..\Engine\Classes\AntiPortalActor.uc
+Log: Spewing: ..\Engine\Classes\TeamInfo.uc
+Log: Spewing: ..\Engine\Classes\ReplicationInfo.uc
+Log: Spewing: ..\Engine\Classes\AutoDoor.uc
+Log: Spewing: ..\Engine\Classes\Door.uc
+Log: Spewing: ..\Engine\Classes\AutoLadder.uc
+Log: Spewing: ..\Engine\Classes\Ladder.uc
+Log: Spewing: ..\Engine\Classes\SmallNavigationPoint.uc
+Log: Spewing: ..\Engine\Classes\BlockingVolume.uc
+Log: Spewing: ..\Engine\Classes\Volume.uc
+Log: Spewing: ..\Engine\Classes\Brush.uc
+Log: Spewing: ..\Engine\Classes\PotentialClimbWatcher.uc
+Log: Spewing: ..\Engine\Classes\LadderVolume.uc
+Log: Spewing: ..\Engine\Classes\PhysicsVolume.uc
+Log: Spewing: ..\Engine\Classes\DefaultPhysicsVolume.uc
+Log: Spewing: ..\Engine\Classes\LineOfSightTrigger.uc
+Log: Spewing: ..\Engine\Classes\Triggers.uc
+Log: Spewing: ..\Engine\Classes\AIScript.uc
+Log: Spewing: ..\Engine\Classes\DamageType.uc
+Log: Spewing: ..\Engine\Classes\VehiclePart.uc
+Log: Spewing: ..\Engine\Classes\Vehicle.uc
+Log: Spewing: ..\Engine\Classes\PlayerController.uc
+Log: Spewing: ..\Engine\Classes\Controller.uc
+Log: Spewing: ..\Engine\Classes\AIController.uc
+Log: Spewing: ..\Engine\Classes\LevelSummary.uc
+Log: Spewing: ..\Engine\Classes\GameReplicationInfo.uc
+Log: Spewing: ..\Engine\Classes\StatLogFile.uc
+Log: Spewing: ..\Engine\Classes\StatLog.uc
+Log: Spewing: ..\Engine\Classes\InternetInfo.uc
+Log: Spewing: ..\Engine\Classes\PlayerReplicationInfo.uc
+Log: Spewing: ..\Engine\Classes\R6PawnReplicationInfo.uc
+Log: Spewing: ..\Engine\Classes\R6MapList.uc
+Log: Spewing: ..\Engine\Classes\MapList.uc
+Log: Spewing: ..\Engine\Classes\LiftExit.uc
+Log: Spewing: ..\Engine\Classes\LiftCenter.uc
+Log: Spewing: ..\Engine\Classes\SavedMove.uc
+Log: Spewing: ..\Engine\Classes\HUD.uc
+Log: Spewing: ..\Engine\Classes\WarpZoneMarker.uc
+Log: Spewing: ..\Engine\Classes\Trigger.uc
+Log: Spewing: ..\Engine\Classes\AIMarker.uc
+Log: Spewing: ..\Engine\Classes\PlayerStart.uc
+Log: Spewing: ..\Engine\Classes\Teleporter.uc
+Log: Spewing: ..\Engine\Classes\WarpZoneInfo.uc
+Log: Spewing: ..\Engine\Classes\ZoneInfo.uc
+Log: Spewing: ..\Engine\Classes\Projectile.uc
+Log: Spewing: ..\Engine\Classes\Decoration.uc
+Log: Spewing: ..\Engine\Classes\InterpolationPoint.uc
+Log: Spewing: ..\Engine\Classes\Scout.uc
+Log: Spewing: ..\Engine\Classes\PathNode.uc
+Log: Spewing: ..\Engine\Classes\ReachSpec.uc
+Log: Spewing: ..\Engine\Classes\SkyZoneInfo.uc
+Log: Spewing: ..\Engine\Classes\Camera.uc
+Log: Spewing: ..\Engine\Classes\GameInfo.uc
+Log: Spewing: ..\Engine\Classes\LevelInfo.uc
+Log: Spewing: ..\Engine\Classes\R6ActionSpot.uc
+Log: Spewing: ..\Engine\Classes\R6FootStep.uc
+Log: Spewing: ..\Engine\Classes\R6ActionPointAbstract.uc
+Log: Spewing: ..\Engine\Classes\R6RainbowStartInfo.uc
+Log: Spewing: ..\Engine\Classes\R6TeamStartInfo.uc
+Log: Spewing: ..\Engine\Classes\R6StartGameInfo.uc
+Log: Spewing: ..\Engine\Classes\R6AbstractPlanningInfo.uc
+Log: Spewing: ..\Engine\Classes\R6AbstractClimbableObj.uc
+Log: Spewing: ..\Engine\Classes\R6ColBox.uc
+Log: Spewing: ..\Engine\Classes\R6EngineFirstPersonWeapon.uc
+Log: Spewing: ..\Engine\Classes\R6EngineWeapon.uc
+Log: Spewing: ..\Engine\Classes\R6AbstractTerroristMgr.uc
+Log: Spewing: ..\Engine\Classes\R6AbstractCircumstantialActionQuery.uc
+Log: Spewing: ..\Engine\Classes\R6GlowLight.uc
+Log: Spewing: ..\Engine\Classes\Light.uc
+Log: Spewing: ..\Engine\Classes\Note.uc
+Log: Spewing: ..\Engine\Classes\PolyMarker.uc
+Log: Spewing: ..\Engine\Classes\ClipMarker.uc
+Log: Spewing: ..\Engine\Classes\R6FileManager.uc
+Log: Spewing: ..\Engine\Classes\KVehicle.uc
+Log: Spewing: ..\Engine\Classes\KTire.uc
+Log: Spewing: ..\Engine\Classes\KActor.uc
+Log: Spewing: ..\Engine\Classes\KarmaParamsSkel.uc
+Log: Spewing: ..\Engine\Classes\KarmaParams.uc
+Log: Spewing: ..\Engine\Classes\KarmaParamsCollision.uc
+Log: Spewing: ..\Engine\Classes\KarmaParamsRBFull.uc
+Log: Spewing: ..\Engine\Classes\KCarWheelJoint.uc
+Log: Spewing: ..\Engine\Classes\KConstraint.uc
+Log: Spewing: ..\Engine\Classes\KConeLimit.uc
+Log: Spewing: ..\Engine\Classes\KHinge.uc
+Log: Spewing: ..\Engine\Classes\KBSJoint.uc
+Log: Spewing: ..\Engine\Classes\R6GameColors.uc
+Log: Spewing: ..\Engine\Classes\Mutator.uc
+Log: Spewing: ..\Engine\Classes\LocalMessage.uc
+Log: Spewing: ..\Engine\Classes\R6SFX.uc
+Log: Spewing: ..\Engine\Classes\VoicePack.uc
+Log: Spewing: ..\Engine\Classes\Suicided.uc
+Log: Spewing: ..\Engine\Classes\ScoreBoard.uc
+Log: Spewing: ..\Engine\Classes\R6GameMenuCom.uc
+Log: Spewing: ..\Engine\Classes\R6MissionObjectiveBase.uc
+Log: Spewing: ..\Engine\Classes\R6AbstractHostageMgr.uc
+Log: Spewing: ..\Engine\Classes\R6LimitedSFX.uc
+Log: Spewing: ..\Engine\Classes\R6WeatherEmitter.uc
+Log: Spewing: ..\Engine\Classes\GameMessage.uc
+Log: Spewing: ..\Engine\Classes\BroadcastHandler.uc
+Log: Spewing: ..\Engine\Classes\AccessControl.uc
+Log: Spewing: ..\Engine\Classes\GameRules.uc
+Log: Spewing: ..\Engine\Classes\Crushed.uc
+Log: Spewing: ..\Engine\Classes\Effects.uc
+Log: Spewing: ..\Engine\Classes\Gibbed.uc
+Log: Spewing: ..\Engine\Classes\fell.uc
+Log: Spewing: ..\Engine\Classes\VolumeTimer.uc
+Log: Spewing: ..\Engine\Classes\R6UPackageMgr.uc
+Log: Spewing: ..\Engine\Classes\Admin.uc
+Log: Spewing: ..\Engine\Classes\Fragment.uc
+Log: Spewing: ..\Engine\Classes\R6Alarm.uc
+Log: Spewing: ..\Engine\Classes\ZoneTrigger.uc
+Log: Spewing: ..\R6Game\Classes\R6HUD.uc
+Log: Spewing: ..\R6Abstract\Classes\R6AbstractHUD.uc
+Log: Spewing: ..\R6Game\Classes\R6MultiPlayerGameInfo.uc
+Log: Spewing: ..\R6Game\Classes\R6GameInfo.uc
+Log: Spewing: ..\R6Abstract\Classes\R6AbstractGameInfo.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative.uc
+Log: Spewing: ..\R6Game\Classes\R6WaterVolume.uc
+Log: Spewing: ..\R6Game\Classes\R6SoundVolume.uc
+Log: Spewing: ..\R6Game\Classes\R6InstructionSoundVolume.uc
+Log: Spewing: ..\R6Game\Classes\R6MissionRoster.uc
+Log: Spewing: ..\R6Game\Classes\R6PlayerCampaign.uc
+Log: Spewing: ..\R6Game\Classes\R6FileManagerCampaign.uc
+Log: Spewing: ..\R6Game\Classes\R6FileManagerPlanning.uc
+Log: Spewing: ..\R6Game\Classes\R6PlanningInfo.uc
+Log: Spewing: ..\R6Game\Classes\R6PlanningCtrl.uc
+Log: Spewing: ..\R6Game\Classes\R6ActionPoint.uc
+Log: Spewing: ..\R6Game\Classes\R6PlayerCustomMission.uc
+Log: Spewing: ..\R6Weapons\Classes\R6SmokeCloud.uc
+Log: Spewing: ..\R6Weapons\Classes\R6Reticule.uc
+Log: Spewing: ..\R6Weapons\Classes\R6DemolitionsGadget.uc
+Log: Spewing: ..\R6Weapons\Classes\R6Gadget.uc
+Log: Spewing: ..\R6Weapons\Classes\R6Weapons.uc
+Log: Spewing: ..\R6Abstract\Classes\R6AbstractWeapon.uc
+Log: Spewing: ..\R6Weapons\Classes\R6GrenadeWeapon.uc
+Log: Spewing: ..\R6Weapons\Classes\R6HBSGadget.uc
+Log: Spewing: ..\R6Weapons\Classes\R6Grenade.uc
+Log: Spewing: ..\R6Weapons\Classes\R6Bullet.uc
+Log: Spewing: ..\R6Abstract\Classes\R6AbstractBullet.uc
+Log: Spewing: ..\R6Engine\Classes\R6PlayAnim.uc
+Log: Spewing: ..\R6Engine\Classes\R6MatineeAttach.uc
+Log: Spewing: ..\R6Engine\Classes\R6SubActionAnimSequence.uc
+Log: Spewing: ..\R6Engine\Classes\R6SubActionLookAt.uc
+Log: Spewing: ..\R6Engine\Classes\R6GameReplicationInfo.uc
+Log: Spewing: ..\R6Engine\Classes\R6ClimbablePoint.uc
+Log: Spewing: ..\R6Engine\Classes\R6ClimbableObject.uc
+Log: Spewing: ..\R6Engine\Classes\R6IOSound.uc
+Log: Spewing: ..\R6Engine\Classes\R6IORotatingDoor.uc
+Log: Spewing: ..\R6Engine\Classes\R6IActionObject.uc
+Log: Spewing: ..\R6Engine\Classes\R6InteractiveObject.uc
+Log: Spewing: ..\R6Engine\Classes\R6LadderVolume.uc
+Log: Spewing: ..\R6Engine\Classes\R6TerroristMgr.uc
+Log: Spewing: ..\R6Engine\Classes\R6IOBomb.uc
+Log: Spewing: ..\R6Engine\Classes\R6IOObject.uc
+Log: Spewing: ..\R6Engine\Classes\R6CoverSpot.uc
+Log: Spewing: ..\R6Engine\Classes\R6StairVolume.uc
+Log: Spewing: ..\R6Engine\Classes\R6StairOrientation.uc
+Log: Spewing: ..\R6Engine\Classes\R6DZoneRandomPointNode.uc
+Log: Spewing: ..\R6Engine\Classes\R6DZoneRandomPoints.uc
+Log: Spewing: ..\R6Engine\Classes\R6DeploymentZone.uc
+Log: Spewing: ..\R6Engine\Classes\R6DZoneRectangle.uc
+Log: Spewing: ..\R6Engine\Classes\R6DZonePoint.uc
+Log: Spewing: ..\R6Engine\Classes\R6DZonePathNode.uc
+Log: Spewing: ..\R6Engine\Classes\R6DZonePath.uc
+Log: Spewing: ..\R6Engine\Classes\R6DZoneCircle.uc
+Log: Spewing: ..\R6Engine\Classes\R6Stairs.uc
+Log: Spewing: ..\R6Engine\Classes\R6Door.uc
+Log: Spewing: ..\R6Engine\Classes\R6EnvironmentNode.uc
+Log: Spewing: ..\R6Engine\Classes\R6Ladder.uc
+Log: Spewing: ..\R6Engine\Classes\R6Hostage.uc
+Log: Spewing: ..\R6Engine\Classes\R6Pawn.uc
+Log: Spewing: ..\R6Abstract\Classes\R6AbstractPawn.uc
+Log: Spewing: ..\R6Engine\Classes\R6HostageAI.uc
+Log: Spewing: ..\R6Engine\Classes\R6AIController.uc
+Log: Spewing: ..\R6Engine\Classes\R6RainbowTeam.uc
+Log: Spewing: ..\R6Engine\Classes\R6TerroristAI.uc
+Log: Spewing: ..\R6Engine\Classes\R6RainbowAI.uc
+Log: Spewing: ..\R6Engine\Classes\R6PlayerController.uc
+Log: Spewing: ..\R6Engine\Classes\R6Rainbow.uc
+Log: Spewing: ..\R6Engine\Classes\R6Terrorist.uc
+Log: Spewing: ..\R6Engine\Classes\R6MatineeHostage.uc
+Log: Spewing: ..\R6Engine\Classes\R6MatineeRainbow.uc
+Log: Spewing: ..\R6Engine\Classes\R6MatineeTerrorist.uc
+Log: Spewing: ..\R6Engine\Classes\R6TeamMemberReplicationInfo.uc
+Log: Spewing: ..\R6Engine\Classes\R6SoundReplicationInfo.uc
+Log: Spewing: ..\R6Engine\Classes\R6RagDoll.uc
+Log: Spewing: ..\R6Abstract\Classes\R6AbstractCorpse.uc
+Log: Spewing: ..\R6Engine\Classes\R6SAHeartBeatJammer.uc
+Log: Spewing: ..\R6Engine\Classes\R6GenericHB.uc
+Log: Spewing: ..\R6Engine\Classes\R6FalseHeartBeat.uc
+Log: Spewing: ..\R6Abstract\Classes\R6AbstractGameService.uc
+Log: Spewing: ..\R6Abstract\Classes\R6AbstractExtractionZone.uc
+Log: Spewing: ..\R6Abstract\Classes\R6AbstractInsertionZone.uc
+Log: Spewing: ..\R6Abstract\Classes\R6AbstractNoiseMgr.uc
+Log: Spewing: ..\R6Abstract\Classes\R6AbstractFirstPersonWeapon.uc
+Log: Spewing: ..\R6Abstract\Classes\R6AbstractGadget.uc
+Log: Spewing: ..\Core\Classes\SimpleCommandlet.uc
+Log: Spewing: ..\Core\Classes\HelloWorldCommandlet.uc
+Log: Spewing: ..\Core\Classes\Time.uc
+Log: Spewing: ..\Core\Classes\Locale.uc
+Log: Spewing: ..\Engine\Classes\TestInfo.uc
+Log: Spewing: ..\Engine\Classes\ShadowProjector.uc
+Log: Spewing: ..\Engine\Classes\TestObj.uc
+Log: Spewing: ..\Engine\Classes\MaterialTrigger.uc
+Log: Spewing: ..\Engine\Classes\R6ActorSound.uc
+Log: Spewing: ..\Engine\Classes\MusicTrigger.uc
+Log: Spewing: ..\Engine\Classes\AnimNotify_Trigger.uc
+Log: Spewing: ..\Engine\Classes\MessagingSpectator.uc
+Log: Spewing: ..\Engine\Classes\UseTrigger.uc
+Log: Spewing: ..\Engine\Classes\ScriptedTexture.uc
+Log: Spewing: ..\Engine\Classes\DemoRecSpectator.uc
+Log: Spewing: ..\Engine\Classes\WayBeacon.uc
+Log: Spewing: ..\Engine\Classes\R6BloodBath.uc
+Log: Spewing: ..\Engine\Classes\Decal.uc
+Log: Spewing: ..\Engine\Classes\Bitmap.uc
+Log: Spewing: ..\Engine\Classes\AmbientSound.uc
+Log: Spewing: ..\Fire\Classes\IceTexture.uc
+Log: Spewing: ..\Fire\Classes\FractalTexture.uc
+Log: Spewing: ..\Fire\Classes\WetTexture.uc
+Log: Spewing: ..\Fire\Classes\WaterTexture.uc
+Log: Spewing: ..\Fire\Classes\FluidTexture.uc
+Log: Spewing: ..\Fire\Classes\WaveTexture.uc
+Log: Spewing: ..\Fire\Classes\FireTexture.uc
+Log: Spewing: ..\Editor\Classes\CubeBuilder.uc
+Log: Spewing: ..\Editor\Classes\CurvedStairBuilder.uc
+Log: Spewing: ..\Editor\Classes\SpiralStairBuilder.uc
+Log: Spewing: ..\Editor\Classes\LinearStairBuilder.uc
+Log: Spewing: ..\Editor\Classes\TerrainBuilder.uc
+Log: Spewing: ..\Editor\Classes\SheetBuilder.uc
+Log: Spewing: ..\Editor\Classes\CylinderBuilder.uc
+Log: Spewing: ..\Editor\Classes\ConeBuilder.uc
+Log: Spewing: ..\Editor\Classes\TetrahedronBuilder.uc
+Log: Spewing: ..\Editor\Classes\VolumetricBuilder.uc
+Log: Spewing: ..\Editor\Classes\RawMaterialFactory.uc
+Log: Spewing: ..\Editor\Classes\FractalTextureFactory.uc
+Log: Spewing: ..\R6GameService\Classes\R6ServerList.uc
+Log: Spewing: ..\R6GameService\Classes\R6LanServers.uc
+Log: Spewing: ..\R6GameService\Classes\R6GSServers.uc
+Log: Spewing: ..\IpDrv\Classes\UdpLink.uc
+Log: Spewing: ..\IpDrv\Classes\InternetLink.uc
+Log: Spewing: ..\IpDrv\Classes\TcpLink.uc
+Log: Spewing: ..\UWindow\Classes\UWindowWindow.uc
+Log: Spewing: ..\UWindow\Classes\UWindowBase.uc
+Log: Spewing: ..\UWindow\Classes\UWindowList.uc
+Log: Spewing: ..\UWindow\Classes\UWindowRootWindow.uc
+Log: Spewing: ..\UWindow\Classes\UWindowTabControlItem.uc
+Log: Spewing: ..\UWindow\Classes\UWindowLookAndFeel.uc
+Log: Spewing: ..\UWindow\Classes\UWindowPulldownMenuItem.uc
+Log: Spewing: ..\UWindow\Classes\UWindowVScrollbar.uc
+Log: Spewing: ..\UWindow\Classes\UWindowComboControl.uc
+Log: Spewing: ..\UWindow\Classes\UWindowDialogControl.uc
+Log: Spewing: ..\UWindow\Classes\WindowConsole.uc
+Log: Spewing: ..\UWindow\Classes\UWindowMenuBarItem.uc
+Log: Spewing: ..\UWindow\Classes\UWindowPageControlPage.uc
+Log: Spewing: ..\UWindow\Classes\UWindowListControl.uc
+Log: Spewing: ..\UWindow\Classes\UWindowComboListItem.uc
+Log: Spewing: ..\UWindow\Classes\UWindowFramedWindow.uc
+Log: Spewing: ..\UWindow\Classes\UWindowDynamicTextRow.uc
+Log: Spewing: ..\UWindow\Classes\UWindowPulldownMenu.uc
+Log: Spewing: ..\UWindow\Classes\UWindowWin95LookAndFeel.uc
+Log: Spewing: ..\UWindow\Classes\UWindowSmallButton.uc
+Log: Spewing: ..\UWindow\Classes\UWindowButton.uc
+Log: Spewing: ..\UWindow\Classes\UWindowEditControl.uc
+Log: Spewing: ..\UWindow\Classes\UWindowComboList.uc
+Log: Spewing: ..\UWindow\Classes\UWindowEditBox.uc
+Log: Spewing: ..\UWindow\Classes\UWindowTabControl.uc
+Log: Spewing: ..\UWindow\Classes\UWindowTabControlTabArea.uc
+Log: Spewing: ..\UWindow\Classes\UWindowMenuBar.uc
+Log: Spewing: ..\UWindow\Classes\UWindowHotkeyWindowList.uc
+Log: Spewing: ..\UWindow\Classes\UWindowEditBoxHistory.uc
+Log: Spewing: ..\UWindow\Classes\UWindowHScrollbar.uc
+Log: Spewing: ..\UWindow\Classes\UWindowPageWindow.uc
+Log: Spewing: ..\UWindow\Classes\UWindowDialogClientWindow.uc
+Log: Spewing: ..\UWindow\Classes\UWindowClientWindow.uc
+Log: Spewing: ..\UWindow\Classes\UWindowTabControlLeftButton.uc
+Log: Spewing: ..\UWindow\Classes\UWindowTabControlRightButton.uc
+Log: Spewing: ..\UWindow\Classes\UWindowListBox.uc
+Log: Spewing: ..\UWindow\Classes\UWindowDynamicTextArea.uc
+Log: Spewing: ..\UWindow\Classes\UWindowListBoxItem.uc
+Log: Spewing: ..\UWindow\Classes\UWindowComboButton.uc
+Log: Spewing: ..\UWindow\Classes\UWindowSBDownButton.uc
+Log: Spewing: ..\UWindow\Classes\UWindowTextAreaControl.uc
+Log: Spewing: ..\UWindow\Classes\UWindowSBUpButton.uc
+Log: Spewing: ..\UWindow\Classes\UWindowMessageBox.uc
+Log: Spewing: ..\UWindow\Classes\UWindowSBRightButton.uc
+Log: Spewing: ..\UWindow\Classes\UWindowSBLeftButton.uc
+Log: Spewing: ..\UWindow\Classes\UWindowBitmap.uc
+Log: Spewing: ..\UWindow\Classes\UWindowConsoleClientWindow.uc
+Log: Spewing: ..\UWindow\Classes\UWindowMenuClassDefines.uc
+Log: Spewing: ..\UWindow\Classes\UWindowWrappedTextArea.uc
+Log: Spewing: ..\UWindow\Classes\UWindowFrameCloseBox.uc
+Log: Spewing: ..\UWindow\Classes\UWindowMessageBoxCW.uc
+Log: Spewing: ..\UWindow\Classes\UWindowPageControl.uc
+Log: Spewing: ..\UWindow\Classes\UWindowComboLeftButton.uc
+Log: Spewing: ..\UWindow\Classes\UWindowComboRightButton.uc
+Log: Spewing: ..\UWindow\Classes\UWindowMessageBoxArea.uc
+Log: Spewing: ..\UWindow\Classes\UWindowConsoleTextAreaControl.uc
+Log: Spewing: ..\UWindow\Classes\UWindowLabelControl.uc
+Log: Spewing: ..\UWindow\Classes\UWindowConsoleWindow.uc
+Log: Spewing: ..\UWindow\Classes\UWindowControlFrame.uc
+Log: Spewing: ..\UWindow\Classes\UWindowRightClickMenu.uc
+Log: Spewing: ..\UWindow\Classes\UWindowInfo.uc
+Log: Spewing: ..\IpDrv\Classes\ClientBeaconReceiver.uc
+Log: Spewing: ..\IpDrv\Classes\UdpBeacon.uc
+Log: Spewing: ..\Gameplay\Classes\ScriptedController.uc
+Log: Spewing: ..\Gameplay\Classes\ScriptedAction.uc
+Log: Spewing: ..\Gameplay\Classes\LatentScriptedAction.uc
+Log: Spewing: ..\Gameplay\Classes\ScriptedSequence.uc
+Log: Spewing: ..\Gameplay\Classes\TriggerLight.uc
+Log: Spewing: ..\Gameplay\Classes\ScrollingMessageTexture.uc
+Log: Spewing: ..\Gameplay\Classes\ClientScriptedTexture.uc
+Log: Spewing: ..\Gameplay\Classes\SpecialEventTrigger.uc
+Log: Spewing: ..\Gameplay\Classes\PressureVolume.uc
+Log: Spewing: ..\Gameplay\Classes\TriggeredTexture.uc
+Log: Spewing: ..\Gameplay\Classes\TeamTrigger.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_MoveToPoint.uc
+Log: Spewing: ..\Gameplay\Classes\FadeViewTrigger.uc
+Log: Spewing: ..\Gameplay\Classes\counter.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_ForceMoveToPoint.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_FadeView.uc
+Log: Spewing: ..\Gameplay\Classes\TriggeredCondition.uc
+Log: Spewing: ..\Gameplay\Classes\Dispatcher.uc
+Log: Spewing: ..\Gameplay\Classes\MusicEvent.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_PlayMusic.uc
+Log: Spewing: ..\Gameplay\Classes\RoundRobin.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_EndSection.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_SetViewTarget.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_SpawnActor.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_SetAlertness.uc
+Log: Spewing: ..\Gameplay\Classes\Action_PLAYANIM.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_Freeze.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_TeleportToPoint.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_ShootTarget.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_IfCondition.uc
+Log: Spewing: ..\Gameplay\Classes\CriticalEventPlus.uc
+Log: Spewing: ..\Gameplay\Classes\LocalMessagePlus.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_DamageInstigator.uc
+Log: Spewing: ..\Gameplay\Classes\RockingSkyZoneInfo.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_WaitForEvent.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_FreezeOnAnimEnd.uc
+Log: Spewing: ..\Gameplay\Classes\RedirectionTrigger.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_ChangeScript.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_TriggerEvent.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_DisplayMessage.uc
+Log: Spewing: ..\Gameplay\Classes\ScriptedTriggerController.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_PlayAmbientSound.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_ConsoleCommand.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_TurnTowardPlayer.uc
+Log: Spewing: ..\Gameplay\Classes\FearSpot.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_WaitForPlayer.uc
+Log: Spewing: ..\Gameplay\Classes\Depressurized.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_Killinstigator.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_Walk.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_GotoAction.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_PlayLocalSound.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_WaitForTimer.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_Run.uc
+Log: Spewing: ..\Gameplay\Classes\Ambushpoint.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_SetPhysics.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_ChangeLevel.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_DestroyActor.uc
+Log: Spewing: ..\Gameplay\Classes\ScriptedTrigger.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_StopShooting.uc
+Log: Spewing: ..\Gameplay\Classes\TimedTrigger.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_IfRandomPct.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_Crouch.uc
+Log: Spewing: ..\Gameplay\Classes\AnimNotify_FireWeapon.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_DestroyPawn.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_StopAnimation.uc
+Log: Spewing: ..\Gameplay\Classes\Burned.uc
+Log: Spewing: ..\Gameplay\Classes\Corroded.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_MoveToPlayer.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_WaitForAnimEnd.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_KeepCurrentRotation.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_SetHidden.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_PlaySound.uc
+Log: Spewing: ..\Gameplay\Classes\LevelChange.uc
+Log: Spewing: ..\Gameplay\Classes\LavaZone.uc
+Log: Spewing: ..\Gameplay\Classes\LavaVolume.uc
+Log: Spewing: ..\Gameplay\Classes\Impact.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Underwater.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Stoneroom.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_StoneCorridor.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Sewerpipe.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Room.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Quarry.uc
+Log: Spewing: ..\Gameplay\Classes\PressureZone.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Psychotic.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Parkinglot.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_PaddedCell.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_None.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Mountains.uc
+Log: Spewing: ..\Gameplay\Classes\BlockedPath.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Livingroom.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Hangar.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Hallway.uc
+Log: Spewing: ..\Gameplay\Classes\DefensePoint.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Forest.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Drugged.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Dizzy.uc
+Log: Spewing: ..\Gameplay\Classes\AlternatePath.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_ConcertHall.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_City.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Cave.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_CarpetedHallway.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Bathroom.uc
+Log: Spewing: ..\Gameplay\Classes\Drowned.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Auditorium.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Arena.uc
+Log: Spewing: ..\Gameplay\Classes\EFFECT_Alley.uc
+Log: Spewing: ..\Gameplay\Classes\TriggeredPlayerStart.uc
+Log: Spewing: ..\Gameplay\Classes\DecisionTrigger.uc
+Log: Spewing: ..\Gameplay\Classes\CriticalStringPlus.uc
+Log: Spewing: ..\Gameplay\Classes\ScaledSprite.uc
+Log: Spewing: ..\Gameplay\Classes\CriticalEventLowPlus.uc
+Log: Spewing: ..\Gameplay\Classes\BlockPlayer.uc
+Log: Spewing: ..\Gameplay\Classes\SlimeVolume.uc
+Log: Spewing: ..\Gameplay\Classes\BlockMonsters.uc
+Log: Spewing: ..\Gameplay\Classes\BlockAll.uc
+Log: Spewing: ..\Gameplay\Classes\SlimeZone.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_ThrowWeapon.uc
+Log: Spewing: ..\Gameplay\Classes\SpectatorCam.uc
+Log: Spewing: ..\Gameplay\Classes\SpecialEvent.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_FinishRotation.uc
+Log: Spewing: ..\Gameplay\Classes\Spotlight.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_LeaveSequence.uc
+Log: Spewing: ..\Gameplay\Classes\Sunlight.uc
+Log: Spewing: ..\Gameplay\Classes\WaterZone.uc
+Log: Spewing: ..\Gameplay\Classes\WaterVolume.uc
+Log: Spewing: ..\Gameplay\Classes\VisibleTeleporter.uc
+Log: Spewing: ..\Gameplay\Classes\VacuumZone.uc
+Log: Spewing: ..\Gameplay\Classes\VacuumVolume.uc
+Log: Spewing: ..\Gameplay\Classes\ACTION_ChangeWeapon.uc
+Log: Spewing: ..\R6SFX\Classes\R6SFXWallHit.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell.uc
+Log: Spewing: ..\R6SFX\Classes\R6MetalImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6PlatreImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6WoodImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6BloodImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6PlushImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6SnowImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6PlantImpact_01.uc
+Log: Spewing: ..\R6SFX\Classes\R6PianoImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6SandBagImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6SheetMetalImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6MarbleImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6GlassImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6GenericImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6FFSteamImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6WaterImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6DirtImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6BrickImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlassDoor.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_100x180.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_100x210.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_1024x128.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_1024x280.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_110x200.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_112x90.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_128x100.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_128x128.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_128x218.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_128x226.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_128x256.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_158x80.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_160x103.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_160x128.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_184x124.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_192x128.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_192x518.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_200x72.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_206x100.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_22x78.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_230x144.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_240x260.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_240x500.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_250x230.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_256x100.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_256x128.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_256x210.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_256x256.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_277x176.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_290x230.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_320x128.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_338x112.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_350x100.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_360x230.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_384x128.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_465x430.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_48x55.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_512x128.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_52x40.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_58x234.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_592x224.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_60x140.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_60x70.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_640x230.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_64x128.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_70x68.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_768x128.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_95x142.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_96x112.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass_Alpine.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableMetalDoor.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakablePhone.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableScotchBottle_001.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableScotchBottle_002.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableShutter.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableSugarBottle.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableWineBottle.uc
+Log: Spewing: ..\R6SFX\Classes\R6Breakable_TV.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreathEmitter.uc
+Log: Spewing: ..\R6SFX\Classes\R6BrickEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableGlass.uc
+Log: Spewing: ..\R6SFX\Classes\R6C4Effect.uc
+Log: Spewing: ..\R6SFX\Classes\R6ClaymoreMineEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6ConcreteEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6ConcreteImpact.uc
+Log: Spewing: ..\R6SFX\Classes\R6DirtEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6DynamicSnowEmitter.uc
+Log: Spewing: ..\R6SFX\Classes\R6ElectricPanel.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableDoor.uc
+Log: Spewing: ..\R6SFX\Classes\R6ElectricSparkBig.uc
+Log: Spewing: ..\R6SFX\Classes\R6ElectricSparkMedium.uc
+Log: Spewing: ..\R6SFX\Classes\R6ExplosiveDrum.uc
+Log: Spewing: ..\R6SFX\Classes\R6Extincteur.uc
+Log: Spewing: ..\R6SFX\Classes\R6FFSteamEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6Fire.uc
+Log: Spewing: ..\R6SFX\Classes\R6Fire_B.uc
+Log: Spewing: ..\R6SFX\Classes\R6Fire_C.uc
+Log: Spewing: ..\R6SFX\Classes\R6Fire_Oil.uc
+Log: Spewing: ..\R6SFX\Classes\R6FlashBangEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6FragGrenadeEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6GenericEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreakableCup.uc
+Log: Spewing: ..\R6SFX\Classes\R6GlassEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6GrenadeLight.uc
+Log: Spewing: ..\R6SFX\Classes\R6HardMetalEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6HardWoodEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6MarbleEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6BreachingChargeEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6MetalFenceEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6MuzzleFlash12Gauge.uc
+Log: Spewing: ..\R6SFX\Classes\R6MuzzleFlash50M33.uc
+Log: Spewing: ..\R6SFX\Classes\R6MuzzleFlash556mm.uc
+Log: Spewing: ..\R6SFX\Classes\R6MuzzleFlash762mm.uc
+Log: Spewing: ..\R6SFX\Classes\R6MuzzleFlash9mm.uc
+Log: Spewing: ..\R6SFX\Classes\R6MuzzleFlashSub.uc
+Log: Spewing: ..\R6SFX\Classes\R6PianoEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6BoomyWoodEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6PlantEffect_01.uc
+Log: Spewing: ..\R6SFX\Classes\R6PlatreEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6BombFX.uc
+Log: Spewing: ..\R6SFX\Classes\R6PlushEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6ResonMetalEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6SandBagEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6BluePlastic.uc
+Log: Spewing: ..\R6SFX\Classes\R6SheetMetalEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell10mmAuto.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell12GaugeBuck.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell12GaugeSlug.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell357calMagnum.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell40calAuto.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell45calAuto.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell50calM33.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell50calPistol.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell545mm7N6.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell556mmNATO.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell57mm.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell762mmm43.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell762mmNATO.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell765mmAuto.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell9mmParabellum.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell9mmSP6.uc
+Log: Spewing: ..\R6SFX\Classes\R6Shell9x21mmR.uc
+Log: Spewing: ..\R6SFX\Classes\R6SmokeEmitter_01.uc
+Log: Spewing: ..\R6SFX\Classes\R6SmokeEmitter_01Small.uc
+Log: Spewing: ..\R6SFX\Classes\R6SmokeEmitter_02.uc
+Log: Spewing: ..\R6SFX\Classes\R6SmokeExtraction.uc
+Log: Spewing: ..\R6SFX\Classes\R6SmokeFrigo.uc
+Log: Spewing: ..\R6SFX\Classes\R6SmokeGrenadeEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6SmokeGrenadeEffectLOW.uc
+Log: Spewing: ..\R6SFX\Classes\R6SnowEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6SnowEmitter.uc
+Log: Spewing: ..\R6SFX\Classes\R6SnowEmitter2.uc
+Log: Spewing: ..\R6SFX\Classes\R6SnowEmitter3.uc
+Log: Spewing: ..\R6SFX\Classes\R6SnowEmitter4.uc
+Log: Spewing: ..\R6SFX\Classes\R6SnowFootStep.uc
+Log: Spewing: ..\R6SFX\Classes\R6BloodEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6Steam.uc
+Log: Spewing: ..\R6SFX\Classes\R6TearsGazGrenadeEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6WaterEffect.uc
+Log: Spewing: ..\R6SFX\Classes\R6WaterFootStep.uc
+Log: Spewing: ..\R6SFX\Classes\R6WhitePlastic.uc
+Log: Spewing: ..\R6Abstract\Classes\R6MissionObjectiveMgr.uc
+Log: Spewing: ..\R6Abstract\Classes\R6AbstractBulletManager.uc
+Log: Spewing: ..\R6Abstract\Classes\R6AbstractHelmet.uc
+Log: Spewing: ..\R6Abstract\Classes\R6InteractiveObjectAbstract.uc
+Log: Spewing: ..\R6Engine\Classes\R6InteractionRoseDesVents.uc
+Log: Spewing: ..\R6Engine\Classes\R6CircumstantialActionQuery.uc
+Log: Spewing: ..\R6Engine\Classes\R6THeadAttachment.uc
+Log: Spewing: ..\R6Engine\Classes\R6HostageMgr.uc
+Log: Spewing: ..\R6Engine\Classes\R6RainbowPlayerVoices.uc
+Log: Spewing: ..\R6Engine\Classes\R6Voices.uc
+Log: Spewing: ..\R6Engine\Classes\R6CheatManager.uc
+Log: Spewing: ..\R6Engine\Classes\R6RainbowOtherTeamVoices.uc
+Log: Spewing: ..\R6Engine\Classes\R6RainbowMemberVoices.uc
+Log: Spewing: ..\R6Engine\Classes\R6HostageVoices.uc
+Log: Spewing: ..\R6Engine\Classes\R6TerroristVoices.uc
+Log: Spewing: ..\R6Engine\Classes\R6InteractiveObjectAction.uc
+Log: Spewing: ..\R6Engine\Classes\R6IOSlidingWindow.uc
+Log: Spewing: ..\R6Engine\Classes\R6ReferenceIcons.uc
+Log: Spewing: ..\R6Engine\Classes\R6InteractionInventoryMnu.uc
+Log: Spewing: ..\R6Engine\Classes\R6MultiCoopVoices.uc
+Log: Spewing: ..\R6Engine\Classes\R6InteractionCircumstantialAction.uc
+Log: Spewing: ..\R6Engine\Classes\R6CommonRainbowVoices.uc
+Log: Spewing: ..\R6Engine\Classes\R6LadderCollision.uc
+Log: Spewing: ..\R6Engine\Classes\R6IODevice.uc
+Log: Spewing: ..\R6Engine\Classes\R6ExplodingBarel.uc
+Log: Spewing: ..\R6Engine\Classes\R6NightVision.uc
+Log: Spewing: ..\R6Engine\Classes\R6IOSelfDetonatingBomb.uc
+Log: Spewing: ..\R6Engine\Classes\R6ArmPatchGlow.uc
+Log: Spewing: ..\R6Engine\Classes\R6InteractiveObjectActionToggleDevice.uc
+Log: Spewing: ..\R6Engine\Classes\R6MultiCommonVoices.uc
+Log: Spewing: ..\R6Engine\Classes\R6GasMask.uc
+Log: Spewing: ..\R6Engine\Classes\R6InteractiveObjectActionLoopAnim.uc
+Log: Spewing: ..\R6Engine\Classes\R6InteractiveObjectActionPlayAnim.uc
+Log: Spewing: ..\R6Engine\Classes\R6BloodSplat.uc
+Log: Spewing: ..\R6Engine\Classes\R6TextureTrigger.uc
+Log: Spewing: ..\R6Engine\Classes\R6ShadowProjector.uc
+Log: Spewing: ..\R6Engine\Classes\R6GrenadeDecal.uc
+Log: Spewing: ..\R6Engine\Classes\R6PlayerInput.uc
+Log: Spewing: ..\R6Engine\Classes\R6MultiCoopMemberVoices.uc
+Log: Spewing: ..\R6Engine\Classes\R6PreRecordedMsgVoices.uc
+Log: Spewing: ..\R6Engine\Classes\R6IOAlarmSystem.uc
+Log: Spewing: ..\R6Engine\Classes\R6HostageVoicesMaleSpanish.uc
+Log: Spewing: ..\R6Engine\Classes\R6HostageVoicesMalePortuguese.uc
+Log: Spewing: ..\R6Engine\Classes\R6HostageVoicesMaleNorwegian.uc
+Log: Spewing: ..\R6Engine\Classes\R6HostageVoicesMaleFrench.uc
+Log: Spewing: ..\R6Engine\Classes\R6HostageVoicesMaleBritish.uc
+Log: Spewing: ..\R6Engine\Classes\R6HostageVoicesFemaleSpanish.uc
+Log: Spewing: ..\R6Engine\Classes\R6HostageVoicesFemalePortuguese.uc
+Log: Spewing: ..\R6Engine\Classes\R6HostageVoicesFemaleNorwegian.uc
+Log: Spewing: ..\R6Engine\Classes\R6HostageVoicesFemaleFrench.uc
+Log: Spewing: ..\R6Engine\Classes\R6HostageVoicesFemaleBritish.uc
+Log: Spewing: ..\R6Engine\Classes\R6InteractiveObjectActionLoopRandomAnim.uc
+Log: Spewing: ..\R6Engine\Classes\R6TerroristVoicesGerman1.uc
+Log: Spewing: ..\R6Engine\Classes\R6CommonRainbowMemberVoices.uc
+Log: Spewing: ..\R6Engine\Classes\R6InteractiveObjectActionLookAt.uc
+Log: Spewing: ..\R6Engine\Classes\R6InteractiveObjectActionGoto.uc
+Log: Spewing: ..\R6Engine\Classes\R6RainbowOtherTeamVoices1.uc
+Log: Spewing: ..\R6Engine\Classes\R6RainbowOtherTeamVoices2.uc
+Log: Spewing: ..\R6Engine\Classes\R6BloodSplatSmall.uc
+Log: Spewing: ..\R6Engine\Classes\R6TerroristVoicesGerman2.uc
+Log: Spewing: ..\R6Engine\Classes\R6TerroristVoicesPortuguese.uc
+Log: Spewing: ..\R6Engine\Classes\R6TerroristVoicesSpanish1.uc
+Log: Spewing: ..\R6Engine\Classes\R6TerroristVoicesSpanish2.uc
+Log: Spewing: ..\R6Engine\Classes\R6MultiCoopPlayerVoices3.uc
+Log: Spewing: ..\R6Engine\Classes\R6MultiCoopPlayerVoices2.uc
+Log: Spewing: ..\R6Engine\Classes\R6MultiCoopPlayerVoices1.uc
+Log: Spewing: ..\R6Engine\Classes\R6MatineePawn.uc
+Log: Spewing: ..\R6Engine\Classes\R6MatineeActor.uc
+Log: Spewing: ..\R6Engine\Classes\R6TrainingPanel.uc
+Log: Spewing: ..\R6Engine\Classes\R6TerroristIcon.uc
+Log: Spewing: ..\R6Engine\Classes\R6PilotNightVision.uc
+Log: Spewing: ..\R6Engine\Classes\R6PilotGasMask.uc
+Log: Spewing: ..\R6Engine\Classes\R6ObjectiveIcon.uc
+Log: Spewing: ..\R6Engine\Classes\R6MenuLight.uc
+Log: Spewing: ..\R6Engine\Classes\R6InteractiveObjectDummy.uc
+Log: Spewing: ..\R6Engine\Classes\R6HostageIcon.uc
+Log: Spewing: ..\R6Engine\Classes\R6Dummy.uc
+Log: Spewing: ..\R6Engine\Classes\R6DoorLockedIcon.uc
+Log: Spewing: ..\R6Engine\Classes\R6DoorIcon.uc
+Log: Spewing: ..\R6Engine\Classes\R6CommonRainbowPlayerVoices.uc
+Log: Spewing: ..\R6Engine\Classes\R6CameraSpot.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowPawn.uc
+Log: Spewing: ..\R6Characters\Classes\R6TerroristPawn.uc
+Log: Spewing: ..\R6Characters\Classes\R6TMilitant01.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowLight.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowHeavy.uc
+Log: Spewing: ..\R6Characters\Classes\R6HostagePawn.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowMedium.uc
+Log: Spewing: ..\R6Characters\Classes\R6RHelmet.uc
+Log: Spewing: ..\R6Characters\Classes\R6RHeavyHelmet.uc
+Log: Spewing: ..\R6Characters\Classes\R6RMediumHelmet.uc
+Log: Spewing: ..\R6Characters\Classes\R6HNightWatch01.uc
+Log: Spewing: ..\R6Characters\Classes\R6RHeavyWinterHelmet.uc
+Log: Spewing: ..\R6Characters\Classes\R6FieldOfView.uc
+Log: Spewing: ..\R6Characters\Classes\R6HSuit01.uc
+Log: Spewing: ..\R6Characters\Classes\R6TDrug1.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowHeavyWinter.uc
+Log: Spewing: ..\R6Characters\Classes\R6HCasualMan01.uc
+Log: Spewing: ..\R6Characters\Classes\R6HWorkerShip01.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowLightWinter.uc
+Log: Spewing: ..\R6Characters\Classes\R6TMilitant02.uc
+Log: Spewing: ..\R6Characters\Classes\R6TTropical2.uc
+Log: Spewing: ..\R6Characters\Classes\R6TSkinhead1.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowMediumWinter.uc
+Log: Spewing: ..\R6Characters\Classes\R6HWorkerMeat01.uc
+Log: Spewing: ..\R6Characters\Classes\R6TTropical1.uc
+Log: Spewing: ..\R6Characters\Classes\R6HWorkerAirport01.uc
+Log: Spewing: ..\R6Characters\Classes\R6HCasualWoman01.uc
+Log: Spewing: ..\R6Characters\Classes\R6RHeavyCamoHelmet.uc
+Log: Spewing: ..\R6Characters\Classes\R6RHeavyWinterCamoHelmet.uc
+Log: Spewing: ..\R6Characters\Classes\R6RMediumCamoHelmet.uc
+Log: Spewing: ..\R6Characters\Classes\R6RMediumWinterHelmet.uc
+Log: Spewing: ..\R6Characters\Classes\R6RPilotHelmet.uc
+Log: Spewing: ..\R6Characters\Classes\R6RHeavyDesertCamoHelmet.uc
+Log: Spewing: ..\R6Characters\Classes\R6RMediumDesertCamoHelmet.uc
+Log: Spewing: ..\R6Characters\Classes\R6HWorkerShip02.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowHeavyBlue.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowHeavyBlueCamo.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowHeavyDesertCamo.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowHeavyEuro.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowHeavyGreen.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowHeavyGreenCamo.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowHeavyGreyCamo.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowHeavyTan.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowHeavyWinterCamo.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowLightBlue.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowLightBlueCamo.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowLightDesertCamo.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowLightEuro.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowLightGreen.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowLightGreenCamo.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowLightGreyCamo.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowLightTan.uc
+Log: Spewing: ..\R6Characters\Classes\R6HWorkerMeat02.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowLightWinterCamo.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowMediumBlue.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowMediumBlueCamo.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowMediumDesertCamo.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowMediumEuro.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowMediumGreen.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowMediumGreenCamo.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowMediumGreyCamo.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowMediumTan.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowMediumWinterCamo.uc
+Log: Spewing: ..\R6Characters\Classes\R6RainbowPilot.uc
+Log: Spewing: ..\R6Characters\Classes\R6HWorkerAirport02.uc
+Log: Spewing: ..\R6Characters\Classes\R6HSuit02.uc
+Log: Spewing: ..\R6Characters\Classes\R6HOldMan.uc
+Log: Spewing: ..\R6Characters\Classes\R6HNightWatch03.uc
+Log: Spewing: ..\R6Characters\Classes\R6TBusiness01.uc
+Log: Spewing: ..\R6Characters\Classes\R6HNightWatch02.uc
+Log: Spewing: ..\R6Characters\Classes\R6TBusiness02.uc
+Log: Spewing: ..\R6Characters\Classes\R6TBusiness03.uc
+Log: Spewing: ..\R6Characters\Classes\R6TBusiness04.uc
+Log: Spewing: ..\R6Characters\Classes\R6TDrug2.uc
+Log: Spewing: ..\R6Characters\Classes\R6TGospic.uc
+Log: Spewing: ..\R6Characters\Classes\R6TGutierrez.uc
+Log: Spewing: ..\R6Characters\Classes\R6HCasualWoman02.uc
+Log: Spewing: ..\R6Characters\Classes\R6TMilitant03.uc
+Log: Spewing: ..\R6Characters\Classes\R6TMilitant04.uc
+Log: Spewing: ..\R6Characters\Classes\R6TParamilitary01.uc
+Log: Spewing: ..\R6Characters\Classes\R6TParamilitary02.uc
+Log: Spewing: ..\R6Characters\Classes\R6TParamilitary03.uc
+Log: Spewing: ..\R6Characters\Classes\R6TParamilitary04.uc
+Log: Spewing: ..\R6Characters\Classes\R6TParamilitary05.uc
+Log: Spewing: ..\R6Characters\Classes\R6TParamilitary06.uc
+Log: Spewing: ..\R6Characters\Classes\R6TParamilitary07.uc
+Log: Spewing: ..\R6Characters\Classes\R6TParamilitary08.uc
+Log: Spewing: ..\R6Characters\Classes\R6TParamilitary09.uc
+Log: Spewing: ..\R6Characters\Classes\R6TParamilitary10.uc
+Log: Spewing: ..\R6Characters\Classes\R6TParamilitary11.uc
+Log: Spewing: ..\R6Characters\Classes\R6TParamilitary12.uc
+Log: Spewing: ..\R6Characters\Classes\R6TParaMilitary13.uc
+Log: Spewing: ..\R6Characters\Classes\R6TSkinhead2.uc
+Log: Spewing: ..\R6Characters\Classes\R6TToxic1.uc
+Log: Spewing: ..\R6Characters\Classes\R6HCasualMan02.uc
+Log: Spewing: ..\R6Characters\Classes\R6TTropical3.uc
+Log: Spewing: ..\R6Characters\Classes\R6TTropical4.uc
+Log: Spewing: ..\R6Characters\Classes\RainbowTags.uc
+Log: Spewing: ..\R6Characters\Classes\TerroristTags.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stWeaponStaticMesh.uc
+Log: Spewing: ..\R61stWeapons\Classes\R6AbstractFirstPersonHands.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripMP5.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stLMGWeapon.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripP90.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsShotgunM1.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripShotgun.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripSPP.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSniperSSG3000.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripUZI.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripSniper.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSubMp5SD5.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsSniperDragunov.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripAUG.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSniperDragunov.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stPistolSR2.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripC4.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripGrenade.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripLMG.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripPistol.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultAK47.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsPistolMicroUzi.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripHBS.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsShotgunSPAS12.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripBreach.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsShotgunUSAS12.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsAssaultTAR21.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsSniperM82A1.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsSniperPSG1.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsSniperVSSVintorez.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsSniperWA2000.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsSubCZ61.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsSubM12S.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsSubMac119.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsSubMicroUzi.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsSubMp5KPDW.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsSubMTAR21.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsSubSR2.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsSubTMP.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsSubUMP.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHBS.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHBSJ.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHBSSAJ.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stLMG21E.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsAssaultM82.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stLMG23E.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stLMGM249.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stLMGM60E4.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stLMGRPD.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stPistol92FS.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stPistolAPArmy.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stPistolCZ61.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stPistolDesertEagles.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stPistolMac119.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stPistolMicroUzi.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stPistolMk23.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stPistolP228.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stPistolSPP.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stPistolUSP.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stRemoteCharge.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stShotgunM1.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stShotgunSPAS12.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stShotgunUSAS12.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSniperAWCovert.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsAssaultM4.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSniperM82A1.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSniperPSG1.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSniperVSSVintorez.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSniperWA2000.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSubCZ61.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSubM12S.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSubMac119.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSubMicroUzi.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSubMp510A2.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsAssaultM16A2.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSubMp5A4.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSubMp5KPDW.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSubMTAR21.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSubP90.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSubSR2.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSubTMP.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSubUMP.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stSubUzi.uc
+Log: Spewing: ..\R61stWeapons\Classes\WeaponTags.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsAssaultM14.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultAK74.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultAUG.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultFAL.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultFAMASG2.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultFNC.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultG36K.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultG3A3.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultGalilARM.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultL85A1.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultM14.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultM16A2.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultM4.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultM82.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultTAR21.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stAssaultType97.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stBreachingCharge.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stClaymore.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stFalseHBPuck.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stGrenadeFlashBang.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stGrenadeHE.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stGrenadeSmoke.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stGrenadeTearGas.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsAssaultL85A1.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsAssaultGalilARM.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsAssaultG3A3.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsPistolSR2.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsAssaultG36K.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsAssaultFNC.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsAssaultFAMASG2.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsAssaultFAL.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsAssaultAK47.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsAssaultType97.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsPistolMac119.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsPistolCZ61.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsLMGRPD.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsLMGM60E4.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsLMG21E.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGadgetClaymore.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripFalseHBPuck.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripHBSSAJ.uc
+Log: Spewing: ..\R61stWeapons\Classes\R61stHandsGripHBSJ.uc
+Log: Spewing: ..\R6Weapons\Classes\R6BulletManager.uc
+Log: Spewing: ..\R6Weapons\Classes\R6BreachingChargeUnit.uc
+Log: Spewing: ..\R6Weapons\Classes\R6DemolitionsUnit.uc
+Log: Spewing: ..\R6Weapons\Classes\R6FragGrenade.uc
+Log: Spewing: ..\R6Weapons\Classes\R6BreachingChargeGadget.uc
+Log: Spewing: ..\R6Weapons\Classes\R6ClaymoreUnit.uc
+Log: Spewing: ..\R6Weapons\Classes\R6RemoteChargeUnit.uc
+Log: Spewing: ..\R6Weapons\Classes\R6WithWeaponReticule.uc
+Log: Spewing: ..\R6Weapons\Classes\R6FlashBang.uc
+Log: Spewing: ..\R6Weapons\Classes\R6WithWeaponDotReticule.uc
+Log: Spewing: ..\R6Weapons\Classes\R6CrossReticule.uc
+Log: Spewing: ..\R6Weapons\Classes\R6GrenadeReticule.uc
+Log: Spewing: ..\R6Weapons\Classes\R6TearGasGrenade.uc
+Log: Spewing: ..\R6Weapons\Classes\R6DotReticule.uc
+Log: Spewing: ..\R6Weapons\Classes\R6HBSJammerGadget.uc
+Log: Spewing: ..\R6Weapons\Classes\R6FalseHBGadget.uc
+Log: Spewing: ..\R6Weapons\Classes\R6HBSSAJammerGadget.uc
+Log: Spewing: ..\R6Weapons\Classes\R6SniperReticule.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo10mmAutoNormal.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo10mmAuto.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo50calM33Normal.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo50calM33.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo10mmAutoSubsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo556mmNATOSubsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo556mmNATO.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo12gauge.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo357calMagnumNormal.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo357calMagnum.uc
+Log: Spewing: ..\R6Weapons\Classes\R6CircleReticule.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo30calMagnumNormal.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo30calMagnum.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo57x28mmNormal.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo57x28mm.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762mmM43Normal.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762mmM43.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo57x28mmSubsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\R6WReticule.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo357calMagnumSubsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\R6CircleDotReticule.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo556mmNATONormal.uc
+Log: Spewing: ..\R6Weapons\Classes\R6RifleReticule.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo40calAutoNormal.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo40calAuto.uc
+Log: Spewing: ..\R6Weapons\Classes\R6CircleDotLineReticule.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo30calMagnumSubsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo50calPistolNormal.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo50calPistol.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762x54mmRNormal.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762x54mmR.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo50calPistolSubsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762x54mmRSubsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo40calAutoSubsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\R6PumpShotgun.uc
+Log: Spewing: ..\R6Weapons\Classes\R6Shotgun.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo45calAutoNormal.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo45calAuto.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo545mm7N6Subsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo545mm7N6.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo765mmAuto.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo765mmAutoNormal.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo765mmAutoSubsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762mmM43Subsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9mmParabellum.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9mmParabellumNormal.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762mmNATOSubsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762mmNATO.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9mmParabellumSubsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo50calM33Subsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo545mm7N6Normal.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9x21mmR.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9x21mmRNormal.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762mmNATONormal.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9x39mmSP6Subsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9x39mmSP6.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9x21mmRSubsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo45calAutoSubsonic.uc
+Log: Spewing: ..\R6Weapons\Classes\R6TearGasGrenadeGadget.uc
+Log: Spewing: ..\R6Weapons\Classes\R6SmokeGrenadeGadget.uc
+Log: Spewing: ..\R6Weapons\Classes\R6FragGrenadeGadget.uc
+Log: Spewing: ..\R6Weapons\Classes\R6FlashBangGadget.uc
+Log: Spewing: ..\R6Weapons\Classes\R6MuzzleLight.uc
+Log: Spewing: ..\R6Weapons\Classes\R6SniperRifle.uc
+Log: Spewing: ..\R6Weapons\Classes\R6SmokeGrenade.uc
+Log: Spewing: ..\R6Weapons\Classes\R6AssaultRifle.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9x39mmSP6SubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9x39mmSP6SubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\R6BoltActionSniperRifle.uc
+Log: Spewing: ..\R6Weapons\Classes\R6BreachingCharge.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9x21mmRSubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9x21mmRSubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9x21mmRNormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9x21mmRNormalFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\R6ClaymoreGadget.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9mmParabellumSubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\R6RemoteChargeGadget.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9mmParabellumSubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9mmParabellumNormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo9mmParabellumNormalFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo765mmAutoSubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo765mmAutoSubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo765mmAutoNormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo765mmAutoNormalFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762x54mmRSubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762x54mmRSubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762x54mmRNormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762x54mmRNormalFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762mmNATOSubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762mmNATOSubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762mmNATONormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762mmNATONormalFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762mmM43SubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762mmM43SubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\R6ImpactFragGrenade.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762mmM43NormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo762mmM43NormalFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo57x28mmSubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\R6MachineGun.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo57x28mmSubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo57x28mmNormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo57x28mmNormalFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo556mmNATOSubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\R6Magazine.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo556mmNATOSubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo556mmNATONormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo556mmNATONormalFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo545mm7N6SubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo545mm7N6SubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo545mm7N6NormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo545mm7N6NormalFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\R6Pistol.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo50calPistolSubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo50calPistolSubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo50calPistolNormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo50calPistolNormalFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo50calM33SubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo50calM33SubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\R6RemoteCharge.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo50calM33NormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo50calM33NormalFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo45calAutoSubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo45calAutoSubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\R6Claymore.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo45calAutoNormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo45calAutoNormalFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo40calAutoSubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo40calAutoSubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo40calAutoNormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo40calAutoNormalFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo357calMagnumSubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo357calMagnumSubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo357calMagnumNormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo357calMagnumNormalFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo30calMagnumSubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo30calMagnumSubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo30calMagnumNormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo30calMagnumNormalFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\R6Tracer.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo12gaugeSlug.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo12gaugeBuck.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo10mmAutoSubsonicJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\R6SubMachineGun.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo10mmAutoSubsonicFMJ.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo10mmAutoNormalJHP.uc
+Log: Spewing: ..\R6Weapons\Classes\ammo10mmAutoNormalFMJ.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R6MuzzleGadget.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R6WeaponGadgetMesh.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R6TacticalLightGadget.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R6TacticalGlowLight.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R6MiniScopeGadget.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R6SilencerGadget.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R6ThermalScopeGadget.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R6BipodGadget.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R6MagazineGadget.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R6ScopeGadget.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdSilencerSnipers.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdSilencerSubGuns.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R61stSilencerSnipers.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R61stThermalScope.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R61stMuzzleM82A1.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R61stSilencerWA2000.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R61stSilencerM82A1.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R61stSilencerSubGuns.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R61stSilencerPistol.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R61stMiniScope.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R6BipodMeshes.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdTacticalBeam.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdTACPistol.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdSnipeBipod.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdSilencerWA2000.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdSilencerSubGuns2.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdSilencerPistol.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdSilencerM82A1.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdRainbowScope.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdMuzzleType97.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdMuzzleTMP.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdMuzzleSub.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdMuzzlePistol.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdMuzzleMachineGuns.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdMuzzleM82A1.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdMuzzleDragunov.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdMuzzleAssault762.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdMuzzleAssault556.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdMuzzleAK74.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdMuzzleAK47.uc
+Log: Spewing: ..\R6WeaponGadgets\Classes\R63rdLMGBipod.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultAK47.uc
+Log: Spewing: ..\R63rdWeapons\Classes\PistolAPArmy.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultAK74.uc
+Log: Spewing: ..\R63rdWeapons\Classes\PistolDesertEagle357.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultAUG.uc
+Log: Spewing: ..\R63rdWeapons\Classes\PistolDesertEagle50.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultFAL.uc
+Log: Spewing: ..\R63rdWeapons\Classes\PistolMk23.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultFAMASG2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\PistolP228.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultFNC.uc
+Log: Spewing: ..\R63rdWeapons\Classes\PistolUSP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultG36K.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SubCZ61.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultG3A3.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SubM12S.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultGalilARM.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SubMac119.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultL85A1.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SubMicroUzi.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultM14.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SubMP510A2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultM16A2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SubMP5A4.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultM4.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SubMP5KPDW.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultM82.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SubMTAR21.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultTAR21.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SubUzi.uc
+Log: Spewing: ..\R63rdWeapons\Classes\AssaultType97.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SubUMP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SubTMP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SubSR2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\Pistol92FS.uc
+Log: Spewing: ..\R63rdWeapons\Classes\PistolCZ61.uc
+Log: Spewing: ..\R63rdWeapons\Classes\ShotgunSPAS12.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SubMP5SD5.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SubP90.uc
+Log: Spewing: ..\R63rdWeapons\Classes\ShotgunUSAS12.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SniperWA2000.uc
+Log: Spewing: ..\R63rdWeapons\Classes\PistolMac119.uc
+Log: Spewing: ..\R63rdWeapons\Classes\PistolMicroUzi.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SniperSSG3000.uc
+Log: Spewing: ..\R63rdWeapons\Classes\PistolSPP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SniperDragunov.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SniperM82A1.uc
+Log: Spewing: ..\R63rdWeapons\Classes\PistolSR2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SniperPSG1.uc
+Log: Spewing: ..\R63rdWeapons\Classes\ShotgunM1.uc
+Log: Spewing: ..\R63rdWeapons\Classes\LMGM249.uc
+Log: Spewing: ..\R63rdWeapons\Classes\LMG23E.uc
+Log: Spewing: ..\R63rdWeapons\Classes\LMG21E.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SniperAWCovert.uc
+Log: Spewing: ..\R63rdWeapons\Classes\LMGRPD.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SniperVSSVintorez.uc
+Log: Spewing: ..\R63rdWeapons\Classes\LMGM60E4.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultGalilARM.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultL85A1.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultM14.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultM16A2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultM4.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultM82.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultTAR21.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultType97.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagPistol92FS.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultG3A3.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagPistolAPArmy.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagPistolCZ61.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultG36K.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagPistolDesertEagle357.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagPistolDesertEagle50.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultFNC.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagPistolMac119.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagPistolMicroUzi.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultFAMASG2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagPistolMk23.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagPistolP228.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultFAL.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagPistolSR2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagPistolUSP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultAUG.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagSubCZ61.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagSubM12S.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultAK74.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagSubMac119.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagSubMicroUzi.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagAssaultAK47.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagSubMP510A2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagSubMP5A4.uc
+Log: Spewing: ..\R63rdWeapons\Classes\BuckShotgunUSAS12.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagSubMP5KPDW.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagSubMP5SD5.uc
+Log: Spewing: ..\R63rdWeapons\Classes\BuckShotgunSPAS12.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagSubMTAR21.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagSubSR2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\BuckShotgunM1.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagSubTMP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagSubUMP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\CMagSubUzi.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultAK47.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultAK74.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultAUG.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultFAL.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultFAMASG2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultFNC.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultG36K.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultG3A3.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultGalilARM.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultL85A1.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultM14.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultM16A2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultM4.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultM82.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultTAR21.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalAssaultType97.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalLMG21E.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalLMG23E.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalLMGM249.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalLMGM60E4.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalLMGRPD.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalPistol92FS.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalPistolAPArmy.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalPistolCZ61.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalPistolDesertEagle357.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalPistolDesertEagle50.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalPistolMac119.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalPistolMicroUzi.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalPistolMk23.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalPistolP228.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalPistolSPP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalPistolSR2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalPistolUSP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSniperDragunov.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSniperM82A1.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSniperPSG1.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSniperSSG3000.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSniperWA2000.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSubCZ61.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSubM12S.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSubMac119.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSubMicroUzi.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSubMP510A2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSubMP5A4.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSubMP5KPDW.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSubMTAR21.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSubP90.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSubSR2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSubTMP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSubUMP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\NormalSubUzi.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdCMAG556mm.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdCMAG762mm.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdCMAG9mmM12S.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdCMAG9mmMP5.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdCMAG9mmMTAR21.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdCMAG9mmUMP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdDrumMAGAK.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAG10mm.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAG556mm.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAG762mm.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAG762mm2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAG9mm.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAG9mmHigh.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAG9mmStraight.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAGAK47.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAGAK74.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAGBox556mm.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAGBox762mm.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAGCZ61.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAGCZ61High.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAGCZ61High2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAGDragunov.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAGM82A1.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAGP90.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAGPistol.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAGPistolHigh.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAGRPD.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAGUSAS12.uc
+Log: Spewing: ..\R63rdWeapons\Classes\R63rdMAGVintorez.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultAK47.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultAK74.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultAUG.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultFAL.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultFAMASG2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultFNC.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultG36K.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultG3A3.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultGalilARM.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultL85A1.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultM14.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultM16A2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultM4.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultM82.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultTAR21.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedAssaultType97.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedPistol92FS.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedPistolAPArmy.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedPistolDesertEagle357.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedPistolDesertEagle50.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedPistolMk23.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedPistolP228.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedPistolSPP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedPistolUSP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSniperAWCovert.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSniperDragunov.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSniperM82A1.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSniperPSG1.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSniperSSG3000.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSniperVSSVintorez.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSniperWA2000.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSubCZ61.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSubM12S.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSubMac119.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSubMicroUzi.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSubMP510A2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSubMP5A4.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSubMP5KPDW.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSubMP5SD5.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSubMTAR21.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSubP90.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSubSR2.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSubTMP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSubUMP.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SilencedSubUzi.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SlugShotgunM1.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SlugShotgunSPAS12.uc
+Log: Spewing: ..\R63rdWeapons\Classes\SlugShotgunUSAS12.uc
+Log: Spewing: ..\R6Description\Classes\R6BulletDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6Description.uc
+Log: Spewing: ..\R6Description\Classes\R6ArmorDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6WeaponGadgetDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6AssaultDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6PrimaryWeaponDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSilencerSubGuns.uc
+Log: Spewing: ..\R6Description\Classes\R6SubGunDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMiniScope.uc
+Log: Spewing: ..\R6Description\Classes\R6SecondaryWeaponDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6PistolsDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6GadgetDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6SniperDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc9mmParabellumFMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc9mmParabellumJHP.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc556mmNATOFMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6DescCMAG556mm.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMAGPistolHigh.uc
+Log: Spewing: ..\R6Description\Classes\R6LMGDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6DescriptionManager.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSilencerPistol.uc
+Log: Spewing: ..\R6Description\Classes\R6HBDeviceDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6GrenadeDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6MachinePistolsDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc762mmNATOFMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6DescThermalScope.uc
+Log: Spewing: ..\R6Description\Classes\R6KitDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6ExplosiveDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6ShotgunDescription.uc
+Log: Spewing: ..\R6Description\Classes\R6DescWeaponGadgetNone.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSilencerSnipers.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMAG9mmHigh.uc
+Log: Spewing: ..\R6Description\Classes\R6DescCMAG9mmMP5.uc
+Log: Spewing: ..\R6Description\Classes\R6DescBulletNone.uc
+Log: Spewing: ..\R6Description\Classes\R6DescCMAG762mm.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc12gaugeBuck.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc12gaugeSlug.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc45calAutoJHP.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc45calAutoFMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc9x21mmRFMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6DescPrimaryMags.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc762mmM43FMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc762mmNATOJHP.uc
+Log: Spewing: ..\R6Description\Classes\R6DescCMAG9mmUMP.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc765mmAutoFMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6DescDrumMAGAK.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc765mmAutoJHP.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc57x28mmFMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMAGCZ61High.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc40calAutoFMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6DescCMAG9mmMTAR21.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc762x54mmRJHP.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc10mmAutoFMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc545mm7N6FMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc9x39mmSP6FMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc357calMagnumFMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc357calMagnumJHP.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc30calMagnumJHP.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc40calAutoJHP.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc30calMagnumFMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc10mmAutoJHP.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc50calM33FMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc50calM33JHP.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc50calPistolFMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc50calPistolJHP.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc762x54mmRFMJ.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMAGCZ61High2.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultL85A1.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultM14.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultM16A2.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultM4.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultM82.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultTAR21.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultType97.uc
+Log: Spewing: ..\R6Description\Classes\R6DescBreachingChargeGadget.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultGalilARM.uc
+Log: Spewing: ..\R6Description\Classes\R6DescClaymoreGadget.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc762mmM43JHP.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultG3A3.uc
+Log: Spewing: ..\R6Description\Classes\R6DescDiffuseKit.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc57x28mmJHP.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultG36K.uc
+Log: Spewing: ..\R6Description\Classes\R6DescElectronicKit.uc
+Log: Spewing: ..\R6Description\Classes\R6DescFalseHBGadget.uc
+Log: Spewing: ..\R6Description\Classes\R6DescFlashBangGadget.uc
+Log: Spewing: ..\R6Description\Classes\R6DescFragGrenadeGadget.uc
+Log: Spewing: ..\R6Description\Classes\R6DescGadgetNone.uc
+Log: Spewing: ..\R6Description\Classes\R6DescGasMask.uc
+Log: Spewing: ..\R6Description\Classes\R6DescHBSGadget.uc
+Log: Spewing: ..\R6Description\Classes\R6DescHBSJammerGadget.uc
+Log: Spewing: ..\R6Description\Classes\R6DescHBSSAJammerGadget.uc
+Log: Spewing: ..\R6Description\Classes\R6DescHeavy.uc
+Log: Spewing: ..\R6Description\Classes\R6DescHeavyBlue.uc
+Log: Spewing: ..\R6Description\Classes\R6DescHeavyBlueCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescHeavyDesertCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescHeavyEuro.uc
+Log: Spewing: ..\R6Description\Classes\R6DescHeavyEuroCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescHeavyGreen.uc
+Log: Spewing: ..\R6Description\Classes\R6DescHeavyGreenCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescHeavyGreyCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescHeavyTan.uc
+Log: Spewing: ..\R6Description\Classes\R6DescHeavyWinter.uc
+Log: Spewing: ..\R6Description\Classes\R6DescHeavyWinterCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLight.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLightBlue.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLightBlueCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLightDesertCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLightEuro.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLightEuroCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLightGreen.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLightGreenCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLightGreyCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLightTan.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLightWinter.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLightWinterCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLMG21E.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc556mmNATOJHP.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLMG23E.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLMGM249.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLMGM60E4.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLMGRPD.uc
+Log: Spewing: ..\R6Description\Classes\R6DescLockPickKit.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultFNC.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMedium.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMediumBlue.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc545mm7N6JHP.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMediumBlueCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMediumDesertCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMediumEuro.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMediumEuroCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMediumGreen.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMediumGreenCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMediumGreyCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMediumTan.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMediumWinter.uc
+Log: Spewing: ..\R6Description\Classes\R6DescMediumWinterCamo.uc
+Log: Spewing: ..\R6Description\Classes\R6DescPistol92FS.uc
+Log: Spewing: ..\R6Description\Classes\R6DescPistolAPArmy.uc
+Log: Spewing: ..\R6Description\Classes\R6DescPistolCZ61.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultFAMASG2.uc
+Log: Spewing: ..\R6Description\Classes\R6DescPistolDesertEagle357.uc
+Log: Spewing: ..\R6Description\Classes\R6DescPistolDesertEagle50.uc
+Log: Spewing: ..\R6Description\Classes\R6DescPistolMac119.uc
+Log: Spewing: ..\R6Description\Classes\R6DescPistolMicroUzi.uc
+Log: Spewing: ..\R6Description\Classes\R6DescPistolMk23.uc
+Log: Spewing: ..\R6Description\Classes\R6DescPistolP228.uc
+Log: Spewing: ..\R6Description\Classes\R6DescPistolSPP.uc
+Log: Spewing: ..\R6Description\Classes\R6DescPistolSR2.uc
+Log: Spewing: ..\R6Description\Classes\R6DescPistolUSP.uc
+Log: Spewing: ..\R6Description\Classes\R6DescPrimaryWeaponNone.uc
+Log: Spewing: ..\R6Description\Classes\R6DescRemoteChargeGadget.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSecondaryMags.uc
+Log: Spewing: ..\R6Description\Classes\R6DescShotgunM1.uc
+Log: Spewing: ..\R6Description\Classes\R6DescShotgunSPAS12.uc
+Log: Spewing: ..\R6Description\Classes\R6DescShotgunUSAS12.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultFAL.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSmokeGrenadeGadget.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSniperAWCovert.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSniperDragunov.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSniperM82A1.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSniperPSG1.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSniperSSG3000.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSniperVSSVintorez.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSniperWA2000.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSubCZ61.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultAUG.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSubM12S.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSubMac119.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSubMicroUzi.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSubMP510A2.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSubMP5A4.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSubMP5KPDW.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSubMP5SD5.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSubMTAR21.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSubP90.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSubSR2.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSubTMP.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSubUMP.uc
+Log: Spewing: ..\R6Description\Classes\R6DescSubUzi.uc
+Log: Spewing: ..\R6Description\Classes\R6DescTearGasGrenadeGadget.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultAK74.uc
+Log: Spewing: ..\R6Description\Classes\R6DescAssaultAK47.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc9x39mmSP6JHP.uc
+Log: Spewing: ..\R6Description\Classes\R6Desc9x21mmRJHP.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjGroupMission.uc
+Log: Spewing: ..\R6Game\Classes\R6Console.uc
+Log: Spewing: ..\R6Game\Classes\R6ArrowIcon.uc
+Log: Spewing: ..\R6Game\Classes\R6PlanningPawn.uc
+Log: Spewing: ..\R6Game\Classes\R6AdversarialTeamGame.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjDeathmatch.uc
+Log: Spewing: ..\R6Game\Classes\R6InsertionZone.uc
+Log: Spewing: ..\R6Game\Classes\R6StoryModeGame.uc
+Log: Spewing: ..\R6Game\Classes\R6EscortPilotGame.uc
+Log: Spewing: ..\R6Game\Classes\R6PathFlag.uc
+Log: Spewing: ..\R6Game\Classes\R6TrainingMgr.uc
+Log: Spewing: ..\R6Game\Classes\R6PracticeModeGame.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjNeutralizeTerrorist.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjRescueHostage.uc
+Log: Spewing: ..\R6Game\Classes\R6Campaign.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjGoToExtraction.uc
+Log: Spewing: ..\R6Game\Classes\R6HostageRescueAdvGame.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjAcceptableHostageLossesByRainbow.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjAcceptableLosses.uc
+Log: Spewing: ..\R6Game\Classes\R6NoiseMgr.uc
+Log: Spewing: ..\R6Game\Classes\R6CoOpMode.uc
+Log: Spewing: ..\R6Game\Classes\R6CameraDirection.uc
+Log: Spewing: ..\R6Game\Classes\R6TeamBomb.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjPreventBombDetonation.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjObjectInteraction.uc
+Log: Spewing: ..\R6Game\Classes\R6RookieAssault.uc
+Log: Spewing: ..\R6Game\Classes\R6SquadTeamDeathmatch.uc
+Log: Spewing: ..\R6Game\Classes\R6LoneWolfGame.uc
+Log: Spewing: ..\R6Game\Classes\R6ReconGame.uc
+Log: Spewing: ..\R6Game\Classes\R6BroadcastHandler.uc
+Log: Spewing: ..\R6Game\Classes\R6NoRules.uc
+Log: Spewing: ..\R6Game\Classes\R6AlarmCallToSupport.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjCompleteAllAndGoToExtraction.uc
+Log: Spewing: ..\R6Game\Classes\R6DefendGame.uc
+Log: Spewing: ..\R6Game\Classes\R6HostageRescueGame.uc
+Log: Spewing: ..\R6Game\Classes\R6PlanningGrenade.uc
+Log: Spewing: ..\R6Game\Classes\R6SquadDeathmatch.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjTimer.uc
+Log: Spewing: ..\R6Game\Classes\R6PlanningBreach.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjPreventKillInDepZone.uc
+Log: Spewing: ..\R6Game\Classes\R6ExtractionZone.uc
+Log: Spewing: ..\R6Game\Classes\R6TerroristHuntGame.uc
+Log: Spewing: ..\R6Game\Classes\R6DeathMatch.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjRecon.uc
+Log: Spewing: ..\R6Game\Classes\R6PlanningRangeGrenade.uc
+Log: Spewing: ..\R6Game\Classes\R6PlanningSnipe.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjAcceptableHostageLossesByTerro.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjAcceptableCivilianLossesByTerro.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjAcceptableCivilianLossesByRainbow.uc
+Log: Spewing: ..\R6Game\Classes\R6MObjAcceptableRainbowLosses.uc
+Log: Spewing: ..\R6Game\Classes\R6WeatherVolume.uc
+Log: Spewing: ..\R6Game\Classes\R6RookieSniper.uc
+Log: Spewing: ..\R6Game\Classes\R6RookieRecon.uc
+Log: Spewing: ..\R6Game\Classes\R6RookieElectronics.uc
+Log: Spewing: ..\R6Game\Classes\R6RookieDemolitions.uc
+Log: Spewing: ..\R6Game\Classes\R6PlanningRangeFragGrenade.uc
+Log: Spewing: ..\R6Game\Classes\R6PlanningPlayerInput.uc
+Log: Spewing: ..\R6Game\Classes\R6TeamDeathMatchGame.uc
+Log: Spewing: ..\R6Game\Classes\R6TerroristHuntCoopGame.uc
+Log: Spewing: ..\R6Game\Classes\R6MissionGame.uc
+Log: Spewing: ..\R6Game\Classes\R6RetiredOperative.uc
+Log: Spewing: ..\R6Game\Classes\R6ReconCoopGame.uc
+Log: Spewing: ..\R6Game\Classes\R6PlanningHUD.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative9.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative8.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative7.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative6.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative5.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative4.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative3.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative29.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative28.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative27.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative26.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative25.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative24.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative23.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative22.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative21.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative20.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative2.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative19.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative18.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative17.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative16.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative15.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative14.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative13.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative12.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative11.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative10.uc
+Log: Spewing: ..\R6Game\Classes\R6Operative1.uc
+Log: Spewing: ..\R6Game\Classes\R6HostageRescueCoopGame.uc
+Log: Spewing: ..\R6Game\Classes\R6EnvironmentVolume.uc
+Log: Spewing: ..\R6Game\Classes\R6DefendCoopGame.uc
+Log: Spewing: ..\R6Game\Classes\R6AdversarialMode.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowTextLabel.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowPopUpBox.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowButton.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListIGPlayerInfoItem.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowLookAndFeel.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowIGPlayerInfoListBox.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListBox.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowSimpleFramedWindow.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowBitMap.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListServerItem.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowTextLabelExt.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowSimpleFramedWindowExt.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowServerListBox.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowButtonBox.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListBoxItem.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowVScrollbar.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListGeneralItem.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowEditBox.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowEditControl.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowWrappedTextArea.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowSimpleIGPlayerListBox.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowUbiCDKeyCheck.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowMPManager.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListRadio.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowOperativePlanningSummary.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowPopUpButton.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowTextureBrowser.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowTeamSummary.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowCounter.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowRootWindow.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowTextLabelCurved.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowUbiLogIn.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowUbiLoginClient.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowStayDownButton.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowButtonExt.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowRadioButton.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowPopUpBoxCW.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowTextIconsSubListBox.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowHScrollbar.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowTextIconsListBox.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowJoinIP.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListControls.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowTextListBox.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowSimpleCurvedFramedWindow.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowPageSwitch.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListRestKit.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowButtonSort.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListMODS.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowTeamPlanningSummary.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListButtonItem.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListGeneral.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListInfoPlayerItem.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListRadioButton.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowTextListRadio.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowButtonAndEditBox.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowQueryServerInfo.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowButtonGear.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowComboControl.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowServerInfoPlayerBox.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListInfoMapItem.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListArea.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowArea.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowFramedWindow.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListAreaItem.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowServerInfoMapBox.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListBoxCreditsItem.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowComboList.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListRadioArea.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListInfoOptionsItem.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowTabControl.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowconfirmationButton.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowServerInfoOptionsBox.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowMessageWindow.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowHSplitter.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowRightClickMenu.uc
+Log: Spewing: ..\R6Window\Classes\R6WindowListBoxAnchorButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuInGameMultiPlayerRootWindow.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuPopupListButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuRootWindow.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuButtonsDefines.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuOperativeSkillsLabel.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPCreateGameTab.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuRSLookAndFeel.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPRestKitSub.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPTeamBar.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuEquipmentDetailControl.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuGearWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuLaptopWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MPGameMenuCom.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMultiPlayerWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6WindowButtonMainMenu.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuOptionsTab.uc
+Log: Spewing: ..\R6Menu\Classes\R6WindowButtonOptions.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuPopUpStayDownButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6WindowButtonMultiMenu.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPCreateGameTabOptions.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuSingleTeamBar.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuLegendItem.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPAdvGearWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6WindowButtonMPInGame.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuAssignAllButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuOptionsWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuOperativeSkillsBitmap.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPRestKitMain.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuNavigationBar.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuWeaponStats.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPInterHeader.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPInGameMsgReply.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPInGameMsgOffensive.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPInGameMsgStatus.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPInGameMsgDefensive.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPCreateGameTabKitRest.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuEquipmentAnchorButtons.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuDynTeamListsControl.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuInGameRootWindow.uc
+Log: Spewing: ..\R6Menu\Classes\R6OperativeSelectorItem.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuFramePopup.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPServerOption.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuPlanningBar.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuGearGadget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuPlanningWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPInGameRecMessages.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuHelpWindow.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuGearSecondaryWeapon.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuLegendPage.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMapList.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuGearPrimaryWeapon.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuInGameEscSinglePlayerNavBar.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuSinglePlayerWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPInterWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuOperativeSkills.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuActionButtonItem.uc
+Log: Spewing: ..\R6Menu\Classes\R6WindowLegend.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuDebriefingWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuInGameInstructionWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuExecuteWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuArmpatchSelect.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuEquipmentSelectControl.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPManageTab.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuOperativeDetailControl.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuInGameOperativeSelectorWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuTeamButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuSinglePlayerCampaignSelect.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPMenuTab.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuTeamDisplayButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuCustomMissionWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuInGameWritableMapWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPJoinTeamWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuCarreerOperative.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPInGameNavBar.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPInGameVote.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuTeamBar.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuOperativeBio.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPCreateGameWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuTrainingWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPAdvEquipmentDetailControl.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuTimeLineBar.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuIntelWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuActionTypeButtonItem.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuSimpleWindow.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuViewCamBar.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuObjectiveLabel.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuOperativeStats.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPButServerList.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuSavePlan.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuCreditsWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuSinglePlayerCampaignCreate.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuGearArmor.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuEscObjectives.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuDebriefNavBar.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuLoadPlan.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuOperativeHistory.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuOperativeDetailRadioArea.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuDelNodeBar.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuWeaponDetailRadioArea.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuCustomMissionNbTerroSelect.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuCredits.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuCampaignDescription.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuCarreerStats.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuDiffCustomMissionSelect.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPInGameEsc.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuIntelRadioArea.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPInGameObj.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuHelpTextBar.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuActionMenu.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuListActionTypeButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuUbiComWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuNonUbiWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuBriefingSpeakerWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuTimeLineLock.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuListModeButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuInGameEsc.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuSpeedMenu.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuActionPointMenu.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPInGameHelpBar.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuOptionsControls.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuModeMenu.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPInGameEscNavBar.uc
+Log: Spewing: ..\R6Menu\Classes\R6Window3DButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuModeButtonItem.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuAdvFilters.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPAdvEquipmentSelectControl.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPCreateGameTabAdvOptions.uc
+Log: Spewing: ..\R6Menu\Classes\R6Menu3DViewOnOffButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuSpeedButtonItem.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMainWidget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuTimeLinePlay.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMissionDescription.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuHelpTextFrameBar.uc
+Log: Spewing: ..\R6Menu\Classes\R6ColorPicker.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuQuit.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuVideo.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuLegendButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuListActionButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuTimeLinePrevious.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPAdvGearSecondaryWeapon.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuTimeLineNext.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuTimeLineGotoLast.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuTimeLineGotoFirst.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuWPDeleteAllTeamButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPAdvGearGadget.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPCountDown.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuWPDeleteAllButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuCamZoomInButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuWPDeleteButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuCamZoomOutButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuListSpeedButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuCamFloorDownButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuCamFloorUpButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuCamTurnCounterClockwiseButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuCamTurnClockwiseButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuMPAdvGearPrimaryWeapon.uc
+Log: Spewing: ..\R6Menu\Classes\R6LegendPreviousPageButton.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuLegendPageWPDesc.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuLegendPageROE.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuLegendPageObject.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuLegendPageInteractive.uc
+Log: Spewing: ..\R6Menu\Classes\R6MenuLegendPageActions.uc
+Log: Spewing: ..\R6Menu\Classes\R6LegendNextPageButton.uc
+Cmd: MAYBEAUTOSAVE
+Cmd: MAYBEAUTOSAVE
+Cmd: MAYBEAUTOSAVE
+Log: Closed viewport
+Log: Closed viewport
+Log: Closed viewport
+Log: Closed viewport
+Log: Closed viewport
+Log: Closed viewport
+Log: Closed viewport
+Log: WMatineeSheet::OnDestroy
+Log: Closed viewport
+Log: Closed viewport
+Log: Closed viewport
+Log: Closed viewport
+Log: Closed viewport
+Log: Closed viewport
+Log: Closed viewport
+Log: Closed viewport
+Log: Closed viewport
+Log: Closed viewport
+Log: appRequestExit(0)
+Exit: Preparing to exit.
+Log: Purging garbage
+Log: Unbound to Core.dll
+Log: Unbound to Editor.dll
+Log: Unbound to Engine.dll
+Log: Unbound to Window.dll
+Exit: Editor shut down
+Log: Unbound to DareAudio.dll
+Log: Unbound to R6Game.dll
+Log: Unbound to R6Abstract.dll
+Log: Unbound to R6Weapons.dll
+Log: Unbound to R6Engine.dll
+Exit: Transaction tracking system shut down
+Log: Unbound to Fire.dll
+Log: Unbound to R6GameService.dll
+Log: Unbound to IpDrv.dll
+Log: Unbound to WinDrv.dll
+Exit: Windows client shut down
+Log: Unbound to D3DDrv.dll
+Log: Garbage: objects: 45556->0; refs: 0
+Exit: Object subsystem successfully closed.
+Exit: Exiting.
+Log: Waiting for file streaming thread to finish...
+Uninitialized: Name subsystem shut down
+Uninitialized: Memory Allocation Status
+Uninitialized: Curr Memory  0.047M /  2.430M
+Uninitialized: Peak Memory  100.836M /  103.031M
+Uninitialized: Allocs         544 Current /  787583 Total
+Uninitialized: Log file closed, 08/24/03 02:58:32

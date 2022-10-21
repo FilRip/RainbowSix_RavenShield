@@ -1,0 +1,32 @@
+[Rescue_the_President]
+ID_MENUNAME=Rescue the President
+ID_CODENAME=Rescue the President
+ID_DATETIME=2003.5.25 - 1400
+ID_LOCATION=Cayman Brac
+ID_CONTROL=Several terrorists controlled an airport with the force like lightning speed at that time when the President machine tried to be in the landing attitude.\nTheir requirement is a release of the company caught with the President.\nThe government which took a situation seriously demanded the duties of your CLAN President of the special force Rainbow position.SNIPER turns a muzzle to the President at the side of the President in guard's two terrorists, the building the second floor.Furthermore, a bomb is installed in some late staff members who ran away, and the hanger.If they know rescue duties, a hesitation ‚­-less bomb will be blown up!\nAnd I had duties carried out rapidly and carefully.\nGood Luck!!
+
+ID_CLARK=Clark Text.
+ID_SWEENY=Sweeny Text.
+ID_NEWSWIRE=NewsWire Text.
+ID_MISSION_ORDER=Your mission is Free.
+
+[Game]
+BombDisarmed=Bom Master was killed. A bomb has been disarmed
+BombHasDetonated=A bomb was detonated by Bom Master
+HostagesHaveBeenRescued=The President and hostages have been rescued
+HostagesWereKilled=President or Hostages were killed
+HostageHasDied=President or Hostage has died
+HostageWasKilled=President or Hostage was killed
+HostageWasKilledByRainbow=President or Hostage was killed by RAINBOW
+HostageWasKilledByTerro=President or Hostage was killed by a terrorist
+HostagesWhereNotRescued=The President and Hostages were not rescued
+HostagesHaveBeenRescued=The President and Hostages have been rescued
+PreventOneBombDetonation=Prevent bomb detonation
+MissionFailed=Mission failed
+MissionSuccesful=Mission successful
+RescueTheHostageToExtractionZone=Rescue The President and Hostages
+MissionSuccesfulObjectivesCompleted=Mission successful: Objectives complete
+AllTerroristHaveBeenNeutralized=All terrorists have been neutralized
+TimeIsUp=Time has expired
+YouWereDetected=Your team was spotted
+YourTeamWasWipedOut=Your team was wiped out

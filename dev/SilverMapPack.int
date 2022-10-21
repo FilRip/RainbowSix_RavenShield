@@ -1,0 +1,15 @@
+[TheDoor]
+ID_CLARK=Multiplayer Map
+ID_CODENAME=The Door
+ID_CONTROL=Multiplayer Map
+ID_DATETIME=2003.3.25 - 0200
+ID_LOCATION=Somewhere Underground
+ID_MENUNAME=The Door
+
+[TheDoor2]
+ID_CLARK=Multiplayer Map
+ID_CODENAME=The Door2
+ID_CONTROL=Multiplayer Map
+ID_DATETIME=2003.4.2 - 0145
+ID_LOCATION=Somewhere Underground
+ID_MENUNAME=The Door2

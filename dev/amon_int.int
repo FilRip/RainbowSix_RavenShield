@@ -1,0 +1,77 @@
+[BB-combatzone1]
+ID_CLARK=If the enemy's in range, so are you
+ID_CODENAME=BB combat zone 1 
+ID_CONTROL=!
+ID_DATETIME=2003.04.07 - 2000
+ID_LOCATION=Montreal
+ID_MENUNAME=(Amon)BB-CombatZone1
+ID_MISSION_ORDER=!
+ID_NEWSWIRE=!
+ID_SWEENY=!
+
+[zen]
+ID_CLARK=If the enemy's in range, so are you
+ID_CODENAME=Zen
+ID_CONTROL=!
+ID_DATETIME=2003.04.07 - 2000
+ID_LOCATION=Montreal
+ID_MENUNAME=(Amon)Zen
+ID_MISSION_ORDER=!
+ID_NEWSWIRE=!
+ID_SWEENY=!
+
+[parking]
+ID_CLARK=If the enemy's in range, so are you
+ID_CODENAME=Parking
+ID_CONTROL=!
+ID_DATETIME=2003.04.07 - 2000
+ID_LOCATION=Montreal
+ID_MENUNAME=(Amon)Parking
+ID_MISSION_ORDER=!
+ID_NEWSWIRE=!
+ID_SWEENY=!
+
+[MP-Training_RoomClear3]
+ID_CLARK=If the enemy's in range, so are you
+ID_CODENAME=Training Room Clear 3 for multiplayer
+ID_CONTROL=!
+ID_DATETIME=2003.04.07 - 2000
+ID_LOCATION=Montreal
+ID_MENUNAME=(Amon)TrainingRoomClear3
+ID_MISSION_ORDER=!
+ID_NEWSWIRE=!
+ID_SWEENY=!
+
+
+[presidio_TDM]
+ID_CLARK=If the enemy's in range, so are you
+ID_CODENAME=Presidio for Team Deathmatch
+ID_CONTROL=!
+ID_DATETIME=2003.04.07 - 2000
+ID_LOCATION=Montreal
+ID_MENUNAME=(Amon)presidio_TDM
+ID_MISSION_ORDER=!
+ID_NEWSWIRE=!
+ID_SWEENY=!
+
+[H-Hangar]
+ID_CLARK=If the enemy's in range, so are you
+ID_CODENAME=H Hangar
+ID_CONTROL=!
+ID_DATETIME=2003.04.07 - 2000
+ID_LOCATION=Montreal
+ID_MENUNAME=(Amon)H-Hangar
+ID_MISSION_ORDER=!
+ID_NEWSWIRE=!
+ID_SWEENY=!
+
+[MP-small_Training]
+ID_CLARK=If the enemy's in range, so are you
+ID_CODENAME=Small training Area
+ID_CONTROL=!
+ID_DATETIME=2003.04.07 - 2000
+ID_LOCATION=Montreal
+ID_MENUNAME=(Amon)Small Training
+ID_MISSION_ORDER=!
+ID_NEWSWIRE=!
+ID_SWEENY=!

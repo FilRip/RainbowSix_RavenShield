@@ -1,0 +1,20 @@
+[MP_Storage_Depot]
+ID_CLARK=Multiplayer Map.
+ID_CODENAME=Storage Depot
+ID_CONTROL=Multiplayer Map.
+ID_DATETIME=2003.02.15. - 1210
+ID_LOCATION=North Carolina, US
+ID_MENUNAME=(MP) Storage Depot
+ID_MISSION_ORDER=Multiplayer Map.
+ID_NEWSWIRE=Multiplayer Map.
+ID_SWEENY=Multiplayer Map.
+[MP_Chemical_Compound]
+ID_CLARK=Multiplayer Map.
+ID_CODENAME=Chemical Compound
+ID_CONTROL=Multiplayer Map.
+ID_DATETIME=2003.06.20. - 1250
+ID_LOCATION=Smolensk, Russia
+ID_MENUNAME=(MP) Chemical Compound
+ID_MISSION_ORDER=Multiplayer Map.
+ID_NEWSWIRE=Multiplayer Map.
+ID_SWEENY=Multiplayer Map.

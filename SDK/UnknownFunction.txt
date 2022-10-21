@@ -1,0 +1,4 @@
+UnknownFunction313 = DynamicActors
+UnknownFunction2623 = SetPos
+UnknownFunction2626 = SetDrawColor
+

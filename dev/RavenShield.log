@@ -1,0 +1,121 @@
+Log: Log file open, 01/26/04 03:01:13
+Init: Name subsystem initialized
+Init: Detected: Microsoft Windows XP 5.1 (Build: 2600)
+Init: Version: 315
+Init: Compiled: Aug  8 2003 03:28:35
+Init: Command line: 
+Init: Base directory: C:\Gamez\RavenShield\dev\
+Init: Character set: Unicode
+Log: Bound to Window.dll
+Log: Bound to Core.dll
+Log: Bound to Engine.dll
+Init: Object subsystem initialized
+Init: Computer: FILRIP2
+Init: User: Administrateur
+Init: CPU Page size=4096, Processors=1
+Init: CPU Detected: Unknown processor (GenuineIntel)
+Init: CPU Features: CMov FPU RDTSC PAE MMX SSE
+Init: CPU Speed=2407.855000 MHz
+Init: Memory total: Phys=523744K Pagef=1280148K Virt=2097024K
+Init: Working set: 32000 / 159000
+Init: Raven Shield engine initialized
+Log: Bound to WinDrv.dll
+Init: Client initialized
+Log: Bound to D3DDrv.dll
+Log: D3D Device: 64M of video memory
+Init: Direct3D adapters detected:
+Log: 	nv4_disp.dll/NVIDIA GeForce4 Ti 4200
+Init: D3D Driver: MaxTextureBlendStages=8
+Init: D3D Driver: MaxSimultaneousTextures=4
+Init: D3D Driver: MaxActiveLights=8
+Init: D3D Driver: MaxPrimitiveCount=1048575
+Init: D3D Driver: MaxVertexIndex=1048575
+Init: D3D Driver: MaxStreams=16
+Init: D3D Driver: MaxStreamStride=255
+Init: D3D Driver: MaxVertexShaderConst=96
+Init: D3D Driver: D3DVSDT_UBYTE4 allowed: No.
+Init: D3D Driver: VertexShaderVersion=1.1
+Init: D3D Driver: PixelShaderVersion=1.3
+Init: D3D Driver: MaxUserClipPlanes=0
+Init: D3D Driver: WARNING : no AGP support detected
+Init: D3D Driver: D3DDEVCAPS_NPATCHES=0
+Init: D3D Driver: Supports trilinear
+Init: D3D Driver: Supports BLENDDIFFUSEALPHA
+Init: D3D Driver: Supports LOD biasing
+Init: D3D Driver: Supports Z biasing
+Init: D3D Driver: Supports D3DTOP_ADDSIGNED2X
+Init: D3D Driver: Supports D3DTOP_BUMPENVMAP
+Init: D3D Driver: Supports D3DTOP_BUMPENVMAPLUMINANCE
+Init: D3D Driver: Supports D3DTOP_DOTPRODUCT3
+Init: D3D Driver: Supports D3DTOP_MODULATEALPHA_ADDCOLOR
+Init: D3D Driver: Supports D3DTOP_MODULATECOLOR_ADDALPHA
+Init: D3D Driver: Textures (4096x4096), Max aspect 4096
+Init: Raven Shield Engine Direct3D support
+Init: D3D Device: szDriver=nv4_disp.dll
+Init: D3D Device: szDescription=NVIDIA GeForce4 Ti 4200
+Init: D3D Device: wProduct=6
+Init: D3D Device: wVersion=14
+Init: D3D Device: wSubVersion=10
+Init: D3D Device: wBuild=5216
+Init: D3D Device: dwVendorId=4318
+Init: D3D Device: dwDeviceId=595
+Init: D3D Device: dwSubSysId=681316477
+Init: D3D Device: dwRevision=163
+Init: D3D Detected: NVidia video card
+Init: D3D Device: using cubemaps [with mipmaps]
+Log: (Karma): Beginning Karma for game.
+Log: (Karma): Creating MeAssetDB.
+Log: (Karma): Loading: ragdoll.ka
+Log: (Karma): Finished Creating MeAssetDB (2 Assets).
+Log: LoadMap: Entry
+Log: LoadMap: Entry
+Warning: Missing Texture Texture Engine.ConsoleBK
+Log: Initializing PhysicsVolumes list
+Log: Game class is 'GameInfo'
+Log: Starting portals/doors association...
+Log: Finnished.
+Log: Bound to R6Engine.dll
+Log: Bound to R6Abstract.dll
+Log: Bound to IpDrv.dll
+Log: Bound to R6GameService.dll
+Log: Bound to R6Game.dll
+Log: Bound to R6Weapons.dll
+Log: Level is Level Entry.MyLevel
+Log: Bringing Level Entry.MyLevel up for play (0)...
+ScriptLog: InitGame: 
+ScriptLog: ### MutatorClass: Engine.Mutator
+ScriptLog: Base Mutator is Entry.Mutator0
+Localization: No localization: R6Engine.SaveGameDirectory.SaveGameType_CountDown (int)
+Localization: No localization: ASGameMode.RGM_TerroristHuntAdvMode.GreenTeamObj (int)
+Localization: No localization: ASGameMode.RGM_TerroristHuntAdvMode.RedTeamObj (int)
+Localization: No localization: ASGameMode.RGM_TerroristHuntAdvMode.GreenShortDesc (int)
+Localization: No localization: ASGameMode.RGM_TerroristHuntAdvMode.RedShortDesc (int)
+Localization: No localization: ASGameMode.RGM_ScatteredHuntAdvMode.GreenTeamObj (int)
+Localization: No localization: ASGameMode.RGM_ScatteredHuntAdvMode.RedTeamObj (int)
+Localization: No localization: ASGameMode.RGM_ScatteredHuntAdvMode.GreenShortDesc (int)
+Localization: No localization: ASGameMode.RGM_ScatteredHuntAdvMode.RedShortDesc (int)
+Localization: No localization: ASGameMode.RGM_CaptureTheEnemyAdvMode.GreenTeamObj (int)
+Localization: No localization: ASGameMode.RGM_CaptureTheEnemyAdvMode.RedTeamObj (int)
+Localization: No localization: ASGameMode.RGM_CaptureTheEnemyAdvMode.GreenShortDesc (int)
+Localization: No localization: ASGameMode.RGM_CaptureTheEnemyAdvMode.RedShortDesc (int)
+Localization: No localization: ASGameMode.RGM_KamikazeMode.GreenTeamObj (int)
+Localization: No localization: ASGameMode.RGM_KamikazeMode.RedTeamObj (int)
+Localization: No localization: ASGameMode.RGM_KamikazeMode.GreenShortDesc (int)
+Localization: No localization: ASGameMode.RGM_KamikazeMode.RedShortDesc (int)
+Critical: appError called:
+Critical: DefaultPhysicsVolume Entry.DefaultPhysicsVolume0 (Function Engine.PhysicsVolume.PostBeginPlay:0000) Infinite script recursion (250 calls) detected
+Critical: Windows GetLastError: Le fichier spécifié est introuvable. (2)
+Exit: Executing UObject::StaticShutdownAfterError
+Exit: Executing UWindowsClient::ShutdownAfterError
+Critical: FFrame::Serialize
+Critical: UObject::ProcessEvent
+Critical: (DefaultPhysicsVolume Entry.DefaultPhysicsVolume0, Function Engine.PhysicsVolume.PostBeginPlay)
+Critical: BeginPlay
+Critical: UGameEngine::LoadMap
+Critical: UGameEngine::Init
+Critical: InitEngine
+Localization: No localization: Window.IDDIALOG_CrashBox.IDC_CrashBox (int)
+Exit: Exiting.
+Log: Waiting for file streaming thread to finish...
+Uninitialized: Name subsystem shut down
+Uninitialized: Log file closed, 01/26/04 03:01:21

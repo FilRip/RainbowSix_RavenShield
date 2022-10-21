@@ -1,0 +1,14 @@
+Si vous désirez changer l'apparence d'un Rainbow dans une map, vous devez la changer dans le fichier ini de la map en question.
+Pour chaque type de partie disponible sur une map, il y a une ligne définissant l'apparaence actuelle des rainbows.
+En prenant la map Airport en mode Survie par équipe comme exemple vous trouverez la ligne suivante dans le fichier Airport.ini :
+
+;Team Survival
+SkinsPerGameTypes=(package=R6Game,type=R6TeamDeathMatchGame,greenPackage=R6Characters,green=R6RainbowMediumBlue,redPackage=R6Characters,red=R6RainbowMediumDesertCamo)
+
+Pour sélectionner une apparence différente pour une équipe, il vous faut changer le package et le nom de l'apparence (skin).
+
+Si vous voulez que l'équipe verte utilise l'apparence appelée XSkin (dans le package X), il vous faut écrire greenPackage=X ainsi que green=XSkin
+
+La ligne de code devra désormais ressembler à:
+
+SkinsPerGameTypes=(package=R6Game,type=R6TeamDeathMatchGame,greenPackage=X,green=XSkin,redPackage=R6Characters,red=R6RainbowMediumDesertCamo)
